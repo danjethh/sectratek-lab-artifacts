@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.zip binary
+*.db binary
+*.sqlite binary
+*.db-wal binary
+*.png binary

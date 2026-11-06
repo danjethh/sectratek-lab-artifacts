@@ -1,0 +1,132 @@
+{
+ "generated": "2026-11-06",
+ "packages": [
+  {
+   "id": "LAB-TR-0001",
+   "folder": "reports/lab-tr-0001",
+   "title": "Making Silent Failures Visible: A Single-Pass Section Reader for Android Bug Reports",
+   "platform": "Android",
+   "topics": [
+    "bug-reports"
+   ],
+   "year": 2026,
+   "package": "",
+   "package_state": "preparation",
+   "package_note": "In preparation",
+   "report_doi": "10.5281/zenodo.23717909"
+  },
+  {
+   "id": "LAB-TR-0003",
+   "folder": "reports/lab-tr-0003",
+   "title": "Where Android Records Who Used What: App Ops History in Databases, XML Files and Bug Reports",
+   "platform": "Android",
+   "topics": [
+    "android",
+    "app-ops",
+    "access-history",
+    "sqlite-wal",
+    "bug-reports",
+    "tool-validation"
+   ],
+   "year": 2026,
+   "package": "",
+   "package_state": "preparation",
+   "package_note": "In preparation",
+   "report_doi": "10.5281/zenodo.23717924"
+  },
+  {
+   "id": "LAB-TR-0004",
+   "folder": "reports/lab-tr-0004",
+   "title": "Informative but Individually Unreliable: An Empirical Study of Android Reset Indicators and Their Clocks",
+   "platform": "Android",
+   "topics": [
+    "android",
+    "factory-reset",
+    "recovery-history",
+    "boot-reason",
+    "setup-flags",
+    "clock-reliability",
+    "samsung",
+    "bug-reports"
+   ],
+   "year": 2026,
+   "package": "",
+   "package_state": "preparation",
+   "package_note": "In preparation",
+   "report_doi": "10.5281/zenodo.23717926"
+  },
+  {
+   "id": "LAB-TR-0006",
+   "folder": "reports/lab-tr-0006",
+   "title": "Empty Is Not Absent: Silent Failure Modes in Open-Source Mobile Forensic Parsers on iOS 26 and Android 16",
+   "platform": "iOS + Android",
+   "topics": [
+    "schema-drift",
+    "silent-failure",
+    "tool-validation",
+    "multi-user",
+    "android-system-stores"
+   ],
+   "year": 2026,
+   "package": "",
+   "package_state": "preparation",
+   "package_note": "In preparation",
+   "report_doi": "10.5281/zenodo.23717928"
+  },
+  {
+   "id": "LAB-TR-0008",
+   "folder": "reports/lab-tr-0008",
+   "title": "What iMessage Keeps After You Edit, Unsend, React or Delete: Database Evidence from Nine iPhone Databases on iOS 18 to 26",
+   "platform": "iOS",
+   "topics": [
+    "imessage",
+    "ios-messages",
+    "edit-history",
+    "unsent-messages",
+    "tool-validation"
+   ],
+   "year": 2026,
+   "package": "",
+   "package_state": "preparation",
+   "package_note": "In preparation",
+   "report_doi": "10.5281/zenodo.23717930"
+  },
+  {
+   "id": "LAB-TR-0009",
+   "folder": "reports/lab-tr-0009",
+   "title": "Screen Time on iOS 15 to 27: Mostly Empty Usage Tables and Counts That Change Without the Write-Ahead Log",
+   "platform": "iOS",
+   "topics": [
+    "screen-time",
+    "ios-screen-time",
+    "core-data-persistent-history",
+    "write-ahead-log",
+    "managedsettings",
+    "tool-validation"
+   ],
+   "year": 2026,
+   "package": "",
+   "package_state": "preparation",
+   "package_note": "In preparation",
+   "report_doi": "10.5281/zenodo.23717932"
+  },
+  {
+   "id": "LAB-TR-0011",
+   "folder": "reports/lab-tr-0011",
+   "title": "Log Compression and Archive Structure in the iOS 27.0 Sysdiagnose: An Early Observation Tested Against Ten Archives",
+   "platform": "iOS",
+   "topics": [
+    "ios-27",
+    "sysdiagnose",
+    "unified-log",
+    "version-drift",
+    "tool-validation"
+   ],
+   "year": 2026,
+   "package": "",
+   "package_state": "preparation",
+   "package_note": "In preparation",
+   "report_doi": "10.5281/zenodo.23717934"
+  }
+ ]
+}

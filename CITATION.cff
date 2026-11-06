@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these artifacts, please cite the corresponding Lab Technical Report and this repository."
+title: "SectraTEK Lab research artifacts"
+type: software
+authors:
+  - family-names: "Addai"
+    given-names: "Daniel Kwaku Ntiamoah"
+    affiliation: "SectraTEK Lab, Prudential Associates"
+repository-code: "https://github.com/danjethh/sectratek-lab-artifacts"
+license: MIT
+date-released: "2026-11-06"
+keywords:
+  - digital forensics
+  - mobile forensics
+  - Android
+  - iOS
+  - DFIR
+  - reproducible research
+  - synthetic data
+abstract: "Analysis code, invented test data and self-tests for the SectraTEK Lab Technical Reports on mobile device evidence."
