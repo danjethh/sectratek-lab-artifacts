@@ -1,0 +1,15 @@
+Table 9: recall of restored records / share of native records flagged, percent, mean of 200 runs, exact boundary, seed 2810.
+
+| Scenario | R1 | R2 | R3 | R4 |
+|---|---|---|---|---|
+| S1 at setup, ascending | 100.0 / 0.0 | 5.0 / 0.0 | 100.0 / 0.0 | 100.0 / 0.0 |
+| S2 at setup, descending | 100.0 / 0.0 | 99.8 / 0.0 | 100.0 / 0.0 | 100.0 / 0.0 |
+| S3 at setup, by thread | 100.0 / 0.0 | 98.0 / 0.0 | 100.0 / 0.0 | 100.0 / 0.0 |
+| S4 at setup, random | 100.0 / 0.0 | 99.4 / 0.0 | 100.0 / 0.0 | 100.0 / 0.0 |
+| S5 day 3, ascending | 99.4 / 0.0 | 100.0 / 0.0 | 100.0 / 0.0 | 100.0 / 0.0 |
+| S6 day 30, ascending | 92.1 / 0.0 | 100.0 / 0.0 | 100.0 / 0.0 | 100.0 / 0.0 |
+| S7 day 30, by thread | 92.1 / 0.0 | 100.0 / 0.0 | 100.0 / 0.0 | 100.0 / 0.0 |
+| S11 gradual sync, 14 days | 100.0 / 0.0 | 98.9 / 0.0 | 100.0 / 0.0 | 100.0 / 7.6 |
+| S8 no restore | - / 0.0 | - / 0.0 | - / 0.0 | - / 0.0 |
+| S9 no restore, clock step | - / 0.0 | - / 0.7 | - / 0.7 | - / 0.7 |
+| S10 setup, ascending, clock step | 100.0 / 0.0 | 7.0 / 0.6 | 100.0 / 0.6 | 100.0 / 48.5 |

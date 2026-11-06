@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 154" width="680" height="308" role="img">
+<title>Recall of the order rule against the boundary rule</title><desc>Each point is a scenario with a restore, exact boundary. S1 at setup, ascending: R2 5.0, R1 100.0; S2 at setup, descending: R2 99.8, R1 100.0; S3 at setup, by thread: R2 98.0, R1 100.0; S4 at setup, random: R2 99.4, R1 100.0; S5 day 3, ascending: R2 100.0, R1 99.4; S6 day 30, ascending: R2 100.0, R1 92.1; S7 day 30, by thread: R2 100.0, R1 92.1; S11 gradual sync, 14 days: R2 98.9, R1 100.0; S10 setup, ascending, clock step: R2 7.0, R1 100.0.</desc>
+<rect width="340" height="154" fill="#ffffff"/>
+<line x1="40.0" y1="124.0" x2="300.0" y2="124.0" stroke="#1b1b1b" stroke-width="1.0"/>
+<line x1="40.0" y1="14.0" x2="40.0" y2="124.0" stroke="#1b1b1b" stroke-width="1.0"/>
+<text x="37.0" y="127.0" text-anchor="end" fill="#6b6b6b" font-weight="normal" style="font-family:sans-serif;font-size:9px">0</text>
+<text x="40.0" y="135.0" text-anchor="middle" fill="#6b6b6b" font-weight="normal" style="font-family:sans-serif;font-size:9px">0</text>
+<text x="37.0" y="72.0" text-anchor="end" fill="#6b6b6b" font-weight="normal" style="font-family:sans-serif;font-size:9px">50</text>
+<text x="170.0" y="135.0" text-anchor="middle" fill="#6b6b6b" font-weight="normal" style="font-family:sans-serif;font-size:9px">50</text>
+<text x="37.0" y="17.0" text-anchor="end" fill="#6b6b6b" font-weight="normal" style="font-family:sans-serif;font-size:9px">100</text>
+<text x="300.0" y="135.0" text-anchor="middle" fill="#6b6b6b" font-weight="normal" style="font-family:sans-serif;font-size:9px">100</text>
+<circle cx="53.0" cy="14.0" r="2.6" fill="#1f5fbf" fill-opacity="0.75"/>
+<text x="57.0" y="11.0" text-anchor="start" fill="#6b6b6b" font-weight="normal" style="font-family:sans-serif;font-size:9px">S1</text>
+<circle cx="299.5" cy="14.0" r="2.6" fill="#1f5fbf" fill-opacity="0.75"/>
+<text x="303.5" y="11.0" text-anchor="start" fill="#6b6b6b" font-weight="normal" style="font-family:sans-serif;font-size:9px">S2</text>
+<circle cx="294.9" cy="14.0" r="2.6" fill="#1f5fbf" fill-opacity="0.75"/>
+<text x="298.9" y="11.0" text-anchor="start" fill="#6b6b6b" font-weight="normal" style="font-family:sans-serif;font-size:9px">S3</text>
+<circle cx="298.3" cy="14.0" r="2.6" fill="#1f5fbf" fill-opacity="0.75"/>
+<text x="302.3" y="11.0" text-anchor="start" fill="#6b6b6b" font-weight="normal" style="font-family:sans-serif;font-size:9px">S4</text>
+<circle cx="299.9" cy="14.6" r="2.6" fill="#1f5fbf" fill-opacity="0.75"/>
+<text x="303.9" y="11.6" text-anchor="start" fill="#6b6b6b" font-weight="normal" style="font-family:sans-serif;font-size:9px">S5</text>
+<circle cx="299.9" cy="22.7" r="2.6" fill="#1f5fbf" fill-opacity="0.75"/>
+<text x="303.9" y="19.7" text-anchor="start" fill="#6b6b6b" font-weight="normal" style="font-family:sans-serif;font-size:9px">S6</text>
+<circle cx="300.0" cy="22.7" r="2.6" fill="#1f5fbf" fill-opacity="0.75"/>
+<text x="304.0" y="19.7" text-anchor="start" fill="#6b6b6b" font-weight="normal" style="font-family:sans-serif;font-size:9px">S7</text>
+<circle cx="297.2" cy="14.0" r="2.6" fill="#1f5fbf" fill-opacity="0.75"/>
+<text x="301.2" y="11.0" text-anchor="start" fill="#6b6b6b" font-weight="normal" style="font-family:sans-serif;font-size:9px">S11</text>
+<circle cx="58.2" cy="14.0" r="2.6" fill="#1f5fbf" fill-opacity="0.75"/>
+<text x="62.2" y="11.0" text-anchor="start" fill="#6b6b6b" font-weight="normal" style="font-family:sans-serif;font-size:9px">S10</text>
+<text x="170.0" y="148.0" text-anchor="middle" fill="#6b6b6b" font-weight="normal" style="font-family:sans-serif;font-size:9px">recall of R2, order rule (percent)</text>
+<text x="2.0" y="10.0" text-anchor="start" fill="#1b1b1b" font-weight="normal" style="font-family:sans-serif;font-size:9px">recall of R1 (percent)</text>
+</svg>

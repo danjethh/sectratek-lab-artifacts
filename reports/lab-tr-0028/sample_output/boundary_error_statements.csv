@@ -1,0 +1,5 @@
+Statement,Percent
+"S8 no restore, boundary +3 d (too late): native flagged %",1.7
+"S8 no restore, boundary +14 d (too late): native flagged %",7.7
+"S8 no restore, boundary -3 d (too early): native flagged %",0.0
+"S1 at setup, ascending, boundary -3 d (too early): recall %",99.2

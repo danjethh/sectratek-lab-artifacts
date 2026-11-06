@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 138" width="680" height="276" role="img">
+<title>Share of records dated before W</title><desc>One dot per device that holds the store, on a scale from 0 to 100 percent. Rows: Messages: 80, 67, 0, 39, 0, 0, 57, 80; Calls: 67, 58, 0, 26, 0, 0, 40, 67; Media capture: 41, 41, 0, 41, 0, 0, 41, 41; Restored apps: 40, 40, 0, 40, 0, 0, 0, 40.</desc>
+<rect width="340" height="138" fill="#ffffff"/>
+<text x="4.0" y="27.0" text-anchor="start" fill="#1b1b1b" font-weight="normal" style="font-family:sans-serif;font-size:9px">Messages (n 8)</text>
+<line x1="90.0" y1="24.0" x2="325.0" y2="24.0" stroke="#dddddd" stroke-width="0.6"/>
+<circle cx="278.0" cy="24.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="248.4" cy="24.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="90.0" cy="24.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="181.2" cy="24.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="90.0" cy="24.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="90.0" cy="24.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="224.9" cy="24.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="277.5" cy="24.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<text x="4.0" y="53.0" text-anchor="start" fill="#1b1b1b" font-weight="normal" style="font-family:sans-serif;font-size:9px">Calls (n 8)</text>
+<line x1="90.0" y1="50.0" x2="325.0" y2="50.0" stroke="#dddddd" stroke-width="0.6"/>
+<circle cx="246.7" cy="50.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="227.1" cy="50.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="90.0" cy="50.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="150.7" cy="50.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="90.0" cy="50.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="90.0" cy="50.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="184.0" cy="50.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="246.7" cy="50.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<text x="4.0" y="79.0" text-anchor="start" fill="#1b1b1b" font-weight="normal" style="font-family:sans-serif;font-size:9px">Media capture (n 8)</text>
+<line x1="90.0" y1="76.0" x2="325.0" y2="76.0" stroke="#dddddd" stroke-width="0.6"/>
+<circle cx="186.6" cy="76.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="186.6" cy="76.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="90.0" cy="76.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="186.6" cy="76.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="90.0" cy="76.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="90.0" cy="76.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="186.6" cy="76.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="186.6" cy="76.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<text x="4.0" y="105.0" text-anchor="start" fill="#1b1b1b" font-weight="normal" style="font-family:sans-serif;font-size:9px">Restored apps (n 8)</text>
+<line x1="90.0" y1="102.0" x2="325.0" y2="102.0" stroke="#dddddd" stroke-width="0.6"/>
+<circle cx="184.0" cy="102.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="184.0" cy="102.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="90.0" cy="102.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="184.0" cy="102.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="90.0" cy="102.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="90.0" cy="102.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="90.0" cy="102.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<circle cx="184.0" cy="102.0" r="2.2" fill="#1f5fbf" fill-opacity="0.7"/>
+<text x="90.0" y="130.0" text-anchor="middle" fill="#6b6b6b" font-weight="normal" style="font-family:sans-serif;font-size:9px">0%</text>
+<text x="207.5" y="130.0" text-anchor="middle" fill="#6b6b6b" font-weight="normal" style="font-family:sans-serif;font-size:9px">50%</text>
+<text x="325.0" y="130.0" text-anchor="middle" fill="#6b6b6b" font-weight="normal" style="font-family:sans-serif;font-size:9px">100%</text>
+</svg>

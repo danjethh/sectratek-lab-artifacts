@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 150" width="680" height="300" role="img">
+<title>Boundaries on a device timeline</title><desc>A restored batch is written in one burst at R and keeps creation dates that begin before the first boot record W. W comes first on the device clock, the first evidence of user setup U later, then the restore R and native records until acquisition.</desc>
+<rect width="340" height="150" fill="#ffffff"/>
+<line x1="10.0" y1="118.0" x2="330.0" y2="118.0" stroke="#1b1b1b" stroke-width="1.0"/>
+<text x="12.0" y="12.0" text-anchor="start" fill="#1b1b1b" font-weight="normal" style="font-family:sans-serif;font-size:9px">Restored batch, written at R, creation dates kept</text>
+<line x1="92.0" y1="30.0" x2="92.0" y2="124.0" stroke="#6b6b6b" stroke-width="0.6"/>
+<text x="92.0" y="26.0" text-anchor="middle" fill="#1b1b1b" font-weight="bold" style="font-family:sans-serif;font-size:9px">W</text>
+<text x="92.0" y="136.0" text-anchor="middle" fill="#1b1b1b" font-weight="normal" style="font-family:sans-serif;font-size:9px">first boot</text>
+<text x="92.0" y="146.0" text-anchor="middle" fill="#1b1b1b" font-weight="normal" style="font-family:sans-serif;font-size:9px">record</text>
+<line x1="168.0" y1="30.0" x2="168.0" y2="124.0" stroke="#6b6b6b" stroke-width="0.6"/>
+<text x="168.0" y="26.0" text-anchor="middle" fill="#1b1b1b" font-weight="bold" style="font-family:sans-serif;font-size:9px">U</text>
+<text x="168.0" y="136.0" text-anchor="middle" fill="#1b1b1b" font-weight="normal" style="font-family:sans-serif;font-size:9px">first user</text>
+<text x="168.0" y="146.0" text-anchor="middle" fill="#1b1b1b" font-weight="normal" style="font-family:sans-serif;font-size:9px">setup</text>
+<line x1="188.0" y1="30.0" x2="188.0" y2="124.0" stroke="#6b6b6b" stroke-width="0.6"/>
+<text x="188.0" y="26.0" text-anchor="middle" fill="#1b1b1b" font-weight="bold" style="font-family:sans-serif;font-size:9px">R</text>
+<text x="214.0" y="136.0" text-anchor="middle" fill="#1b1b1b" font-weight="normal" style="font-family:sans-serif;font-size:9px">restore</text>
+<text x="310.0" y="136.0" text-anchor="middle" fill="#1b1b1b" font-weight="normal" style="font-family:sans-serif;font-size:9px">acquisition</text>
+<rect x="12" y="34" width="176" height="22" rx="2" fill="none" stroke="#1b1b1b"/>
+<text x="50.0" y="48.0" text-anchor="middle" fill="#1b1b1b" font-weight="normal" style="font-family:sans-serif;font-size:9px">dated before W</text>
+<text x="140.0" y="48.0" text-anchor="middle" fill="#1b1b1b" font-weight="normal" style="font-family:sans-serif;font-size:9px">dated W to R</text>
+<rect x="188" y="76" width="140" height="22" rx="2" fill="none" stroke="#1f5fbf"/>
+<text x="258.0" y="90.0" text-anchor="middle" fill="#1b1b1b" font-weight="normal" style="font-family:sans-serif;font-size:9px">native records, device clock</text>
+<text x="12.0" y="72.0" text-anchor="start" fill="#1b1b1b" font-weight="normal" style="font-family:sans-serif;font-size:9px">Native records</text>
+<text x="12.0" y="110.0" text-anchor="start" fill="#6b6b6b" font-weight="normal" style="font-family:sans-serif;font-size:9px">earlier handset</text>
+<text x="100.0" y="110.0" text-anchor="start" fill="#6b6b6b" font-weight="normal" style="font-family:sans-serif;font-size:9px">this device</text>
+</svg>

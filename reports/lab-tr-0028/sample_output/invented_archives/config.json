@@ -1,0 +1,71 @@
+{
+ "android": [
+  {
+   "id": "a01",
+   "path": "android_01.zip"
+  },
+  {
+   "id": "a02",
+   "path": "android_02.zip"
+  },
+  {
+   "id": "a03",
+   "path": "android_03.zip"
+  },
+  {
+   "id": "a04",
+   "path": "android_04.zip"
+  },
+  {
+   "id": "a05",
+   "path": "android_05.zip"
+  },
+  {
+   "id": "a06",
+   "path": "android_06.zip"
+  },
+  {
+   "id": "a07",
+   "path": "android_07.zip"
+  },
+  {
+   "id": "a08",
+   "path": "android_08.zip"
+  }
+ ],
+ "bug_reports": [
+  {
+   "id": "b01",
+   "path": "bugreport_01.zip"
+  },
+  {
+   "id": "b02",
+   "path": "bugreport_02.zip"
+  },
+  {
+   "id": "b03",
+   "path": "bugreport_03.zip"
+  }
+ ],
+ "ios": [
+  {
+   "id": "i01",
+   "path": "ios_01.zip"
+  },
+  {
+   "id": "i02",
+   "path": "ios_02.zip"
+  },
+  {
+   "id": "i03",
+   "path": "ios_03.zip"
+  },
+  {
+   "id": "i04",
+   "path": "ios_04.zip"
+  }
+ ],
+ "migration_creator_prefixes": [
+  "com.example.migrate"
+ ]
+}

@@ -1,0 +1,271 @@
+{
+ "android": {
+  "gap_WU": {
+   "at_least_100d": 4,
+   "at_least_30d": 6,
+   "le1d": 1,
+   "max": 400.0,
+   "median": 80.0,
+   "min": 0.5,
+   "n": 8,
+   "values": [
+    0.5,
+    2.0,
+    30.0,
+    60.0,
+    100.0,
+    120.0,
+    200.0,
+    400.0
+   ]
+  },
+  "n": 8,
+  "offsets": {
+   "Ad": {
+    "gt30d": 6,
+    "le1d": 1,
+    "max": 400.0,
+    "median": 80.0,
+    "min": 0.5,
+    "n": 8
+   },
+   "Pn": {
+    "gt30d": 3,
+    "le1d": 1,
+    "max": 200.0,
+    "median": 45.0,
+    "min": 0.5,
+    "n": 6
+   },
+   "Pw": {
+    "gt30d": 6,
+    "le1d": 1,
+    "max": 400.0,
+    "median": 80.0,
+    "min": 0.5,
+    "n": 8
+   },
+   "Rr": {
+    "gt30d": 2,
+    "le1d": 1,
+    "max": 200.0,
+    "median": 31.0,
+    "min": 0.5,
+    "n": 4
+   },
+   "Rs": {
+    "gt30d": 3,
+    "le1d": 1,
+    "max": 200.0,
+    "median": 45.0,
+    "min": 0.5,
+    "n": 6
+   },
+   "S": {
+    "gt30d": 1,
+    "le1d": 7,
+    "max": 300.0,
+    "median": 0.0,
+    "min": 0.0,
+    "n": 8
+   },
+   "U": {
+    "gt30d": 5,
+    "le1d": 1,
+    "max": 400.0,
+    "median": 80.0,
+    "min": 0.5,
+    "n": 8
+   },
+   "ist": {
+    "gt30d": 3,
+    "le1d": 0,
+    "max": 130.0,
+    "median": 90.0,
+    "min": 30.5,
+    "n": 3
+   }
+  },
+  "order_rule_where_no_record_before_W": {
+   "flagged": 0,
+   "records": 420,
+   "stores": 6
+  },
+  "pairs_user_group": {
+   "Pw-Ad": {
+    "both": 8,
+    "within_1d": 8
+   },
+   "Pw-Pn": {
+    "both": 6,
+    "within_1d": 6
+   },
+   "Pw-Rx": {
+    "both": 6,
+    "within_1d": 6
+   }
+  },
+  "prevalence": {
+   "account_add_log": 8,
+   "account_password_time": 8,
+   "backup_record_readable": 7,
+   "backup_token_nonzero": 3,
+   "both_setup_flags_set": 8,
+   "devices_with_messages": 8,
+   "first_boot_record": 8,
+   "first_media_index": 8,
+   "first_user_install_after_W": 6,
+   "install_reasons_recorded": 6,
+   "messages_by_migration_tool": 4,
+   "oldest_usage_file_reaches_W": 0,
+   "reason_restore_any": 4,
+   "reason_setup_any": 6,
+   "setup_timestamp_file": 3,
+   "user_creation_time_nonzero": 0
+  },
+  "records": {
+   "apps": {
+    "devices": 8,
+    "devices_restore": 4,
+    "max_pct": 40.0,
+    "median_pct": 20.0,
+    "min_pct": 0.0,
+    "none": 42,
+    "pooled_pct": 20.0,
+    "restore": 24,
+    "setup": 18,
+    "total": 120,
+    "user": 36
+   },
+   "calls": {
+    "between": 91,
+    "devices": 8,
+    "devices_majority_pre": 3,
+    "devices_with_pre": 5,
+    "max_pct": 66.7,
+    "median_pct": 32.9,
+    "min_pct": 0.0,
+    "pooled_pct": 42.9,
+    "pre_W": 309,
+    "total": 720
+   },
+   "media": {
+    "devices": 8,
+    "devices_majority_pre": 0,
+    "devices_with_pre": 5,
+    "late_total": 0,
+    "max_pct": 41.1,
+    "median_pct": 41.1,
+    "min_pct": 0.0,
+    "pooled_pct": 30.4,
+    "pre_W": 150,
+    "total": 494
+   },
+   "sms": {
+    "between": 383,
+    "devices": 8,
+    "devices_majority_pre": 4,
+    "devices_with_pre": 5,
+    "max_pct": 80.0,
+    "median_pct": 48.1,
+    "min_pct": 0.0,
+    "pooled_pct": 57.8,
+    "pre_W": 1617,
+    "total": 2800
+   }
+  },
+  "restore_signals": {
+   "at_least_one": 5,
+   "before_W_no_restored": 1,
+   "none": 3,
+   "records_before_W": 5,
+   "restored_and_before_W": 4,
+   "restored_apps": 4,
+   "restored_no_before_W": 0,
+   "token_nonzero": 3,
+   "tool_messages": 4
+  },
+  "rules_vs_creator": {
+   "other": 400,
+   "rules": {
+    "R1_U": {
+     "other_flagged": 0,
+     "recall_pct": 100.0,
+     "tool_flagged": 1600
+    },
+    "R1_W": {
+     "other_flagged": 0,
+     "recall_pct": 88.94,
+     "tool_flagged": 1423
+    },
+    "R2": {
+     "other_flagged": 0,
+     "recall_pct": 24.94,
+     "tool_flagged": 399
+    },
+    "R3_U": {
+     "other_flagged": 0,
+     "recall_pct": 100.0,
+     "tool_flagged": 1600
+    },
+    "R4_U": {
+     "other_flagged": 0,
+     "recall_pct": 100.0,
+     "tool_flagged": 1600
+    }
+   },
+   "tool": 1600
+  },
+  "structure": {
+   "all_before_later": 8,
+   "ascending": 8,
+   "descending": 1,
+   "device_stores": 10,
+   "one_run": 9,
+   "several_runs": 1
+  }
+ },
+ "bugreports": {
+  "n": 3,
+  "restore_counts": [
+   12,
+   0,
+   0
+  ],
+  "restore_window_days": [
+   0.0,
+   null,
+   null
+  ],
+  "tokens_zero": 3,
+  "with_install_reasons": 2
+ },
+ "ios": {
+  "calls": {
+   "devices": 3,
+   "majority_before_M": 0,
+   "max_pct": 42.9,
+   "median_pct": 0.0,
+   "min_pct": 0.0,
+   "some_before_M": 1
+  },
+  "messages": {
+   "devices": 3,
+   "majority_before_M": 3,
+   "max_pct": 81.8,
+   "median_pct": 75.0,
+   "min_pct": 60.0,
+   "some_before_M": 3
+  },
+  "n": 4,
+  "photos": {
+   "devices": 3,
+   "majority_before_M": 3,
+   "max_pct": 80.0,
+   "median_pct": 80.0,
+   "min_pct": 80.0,
+   "some_before_M": 3
+  },
+  "with_marker": 3
+ }
+}
