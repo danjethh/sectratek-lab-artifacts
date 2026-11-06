@@ -1,0 +1,125 @@
+{
+ "anchor_lag_h": 2.0,
+ "checks": {
+  "biome_name_le_mtime": [
+   8,
+   8
+  ],
+  "ul_persist_hdr_le_mtime": [
+   5,
+   5
+  ],
+  "ul_special_hdr_le_mtime": [
+   4,
+   4
+  ]
+ },
+ "clock_check": "pass",
+ "deep_knowledgec": {
+  "horizon_excl_signals_sync_d": 23.94,
+  "median_stream_horizon_d": 23.9,
+  "oldest_stream_name": "/discoverability/signals",
+  "records": 96,
+  "share_older_than_30_days": 0.073,
+  "signals_horizon_d": 426.4,
+  "streams": 4
+ },
+ "device_class": "phone",
+ "device_newest": 1772467200.0,
+ "id": "ios02b",
+ "kind": "ios",
+ "os_major": 26,
+ "same_device_drop": false,
+ "same_device_group": "pair1",
+ "status": "ok",
+ "stores": {
+  "biome_appinfocus": {
+   "files": 8,
+   "horizon_d": 39.637309093856146,
+   "kind": "biome-segment-name",
+   "n_clock_err_high": 0,
+   "n_clock_err_low": 0,
+   "n_records": 8,
+   "newest": 1771696800.0,
+   "newest_lag_d": 9.0,
+   "oldest": 1769049736.4942908
+  },
+  "interactionc": {
+   "horizon_d": 167.00154698555943,
+   "horizon_first_pct_d": 166.93437000433605,
+   "kind": "sqlite",
+   "n_clock_err_high": 0,
+   "n_clock_err_low": 0,
+   "n_records": 120,
+   "newest": 1772467200.0,
+   "newest_lag_d": 0.08333333333333333,
+   "nowal_horizon_d": 188.43481291573082,
+   "nowal_min": 1756193632.1640809,
+   "nowal_n": 132,
+   "oldest": 1758045466.3404477,
+   "p01": 1758051270.4316254
+  },
+  "knowledgec": {
+   "horizon_d": 426.3971189331788,
+   "horizon_first_pct_d": 426.3971189331788,
+   "infocus_horizon_d": 23.941971622092858,
+   "infocus_min": 1770405813.6518512,
+   "kind": "sqlite",
+   "n_clock_err_high": 0,
+   "n_clock_err_low": 0,
+   "n_records": 96,
+   "newest": 1772467200.0,
+   "newest_lag_d": 0.08333333333333333,
+   "nowal_horizon_d": 426.3971189331788,
+   "nowal_min": 1735633688.9241734,
+   "nowal_n": 96,
+   "oldest": 1735633688.9241734,
+   "p01": 1735633688.9241734
+  },
+  "knowledgec_other": {
+   "horizon_d": 23.94,
+   "kind": "derived",
+   "newest_lag_d": 0.08333333333333333
+  },
+  "powerlog_archives": {
+   "files": 6,
+   "horizon_d": 6.25,
+   "kind": "powerlog-archive-date",
+   "n_clock_err_high": 0,
+   "n_clock_err_low": 0,
+   "n_records": 6,
+   "newest": 1772366400.0,
+   "newest_lag_d": 1.25,
+   "oldest": 1771934400.0
+  },
+  "ul_persist": {
+   "bad_header": 0,
+   "bytes": 2930,
+   "files": 5,
+   "horizon_d": 4.4227083333333335,
+   "kind": "header start time",
+   "n_clock_err_high": 0,
+   "n_clock_err_low": 0,
+   "n_records": 5,
+   "newest": 1772467200.0,
+   "newest_lag_d": 0.08333333333333333,
+   "oldest": 1772092278.0
+  },
+  "ul_special": {
+   "bad_header": 0,
+   "bytes": 2983,
+   "files": 4,
+   "horizon_d": 7.236944444444444,
+   "kind": "header start time",
+   "n_clock_err_high": 0,
+   "n_clock_err_low": 0,
+   "n_records": 4,
+   "newest": 1772467200.0,
+   "newest_lag_d": 0.08333333333333333,
+   "oldest": 1771849128.0
+  }
+ },
+ "tacq": 1772474400.0,
+ "tacq_src": "record",
+ "vendor_group": "group1"
+}

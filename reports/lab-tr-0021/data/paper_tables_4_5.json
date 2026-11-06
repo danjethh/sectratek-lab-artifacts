@@ -1,0 +1,281 @@
+{
+ "_note": "Values as printed in Tables 4 and 5 and Section 5.6 of the report (rounded as printed). A minimum printed as '<0.01' is entered as 0.005. ge30 is entered only where the report prints it (Table 4 and Section 5.6).",
+ "columns": [
+  "key",
+  "group",
+  "n",
+  "median",
+  "q1",
+  "q3",
+  "min",
+  "max",
+  "ge7",
+  "ge30",
+  "printed_ci30_pct",
+  "limit"
+ ],
+ "rows": [
+  {
+   "key": "ul_persist",
+   "group": "iOS",
+   "n": 25,
+   "median": 2.5,
+   "q1": 1.2,
+   "q3": 6.8,
+   "min": 0.39,
+   "max": 48.2,
+   "ge7": 6,
+   "ge30": 1,
+   "printed_ci30_pct": [
+    1,
+    20
+   ],
+   "limit": null
+  },
+  {
+   "key": "ul_signpost",
+   "group": "iOS",
+   "n": 9,
+   "median": 7.2,
+   "q1": 5.4,
+   "q3": 8.5,
+   "min": 0.54,
+   "max": 48.1,
+   "ge7": 6,
+   "ge30": 1,
+   "printed_ci30_pct": [
+    2,
+    44
+   ],
+   "limit": null
+  },
+  {
+   "key": "ul_special",
+   "group": "iOS",
+   "n": 25,
+   "median": 24.0,
+   "q1": 14.1,
+   "q3": 30.2,
+   "min": 0.11,
+   "max": 70.7,
+   "ge7": 20,
+   "ge30": 11,
+   "printed_ci30_pct": [
+    27,
+    63
+   ],
+   "limit": null
+  },
+  {
+   "key": "powerlog_archives",
+   "group": "iOS",
+   "n": 24,
+   "median": 7.0,
+   "q1": 6.2,
+   "q3": 10.8,
+   "min": 5.9,
+   "max": 32.3,
+   "ge7": 12,
+   "ge30": 2,
+   "printed_ci30_pct": [
+    2,
+    26
+   ],
+   "limit": null
+  },
+  {
+   "key": "biome_appinfocus",
+   "group": "iOS",
+   "n": 22,
+   "median": 36.8,
+   "q1": 31.4,
+   "q3": 64.7,
+   "min": 29.3,
+   "max": 165.2,
+   "ge7": 22,
+   "ge30": 20,
+   "printed_ci30_pct": [
+    72,
+    98
+   ],
+   "limit": null
+  },
+  {
+   "key": "knowledgec",
+   "group": "iOS",
+   "n": 26,
+   "median": 157.1,
+   "q1": 73.5,
+   "q3": 270.5,
+   "min": 0.52,
+   "max": 730.0,
+   "ge7": 25,
+   "ge30": 25,
+   "printed_ci30_pct": [
+    81,
+    99
+   ],
+   "limit": null
+  },
+  {
+   "key": "knowledgec_other",
+   "group": "iOS",
+   "n": 26,
+   "median": 28.6,
+   "q1": 28.0,
+   "q3": 37.9,
+   "min": 0.52,
+   "max": 419.9,
+   "ge7": 25,
+   "ge30": 11,
+   "printed_ci30_pct": [
+    26,
+    61
+   ],
+   "limit": null
+  },
+  {
+   "key": "interactionc",
+   "group": "iOS",
+   "n": 25,
+   "median": 168.0,
+   "q1": 167.0,
+   "q3": 168.3,
+   "min": 49.0,
+   "max": 557.5,
+   "ge7": 25,
+   "ge30": 25,
+   "printed_ci30_pct": [
+    87,
+    100
+   ],
+   "limit": null
+  },
+  {
+   "key": "usage_daily",
+   "group": "Android",
+   "n": 13,
+   "median": 9.8,
+   "q1": 9.2,
+   "q3": 9.9,
+   "min": 1.2,
+   "max": 10.1,
+   "ge7": null,
+   "ge30": 0,
+   "printed_ci30_pct": null,
+   "limit": 10
+  },
+  {
+   "key": "usage_any",
+   "group": "Android",
+   "n": 13,
+   "median": 330.8,
+   "q1": 107.5,
+   "q3": 614.8,
+   "min": 16.9,
+   "max": 977.0,
+   "ge7": null,
+   "ge30": null,
+   "printed_ci30_pct": null,
+   "limit": null
+  },
+  {
+   "key": "notif_history",
+   "group": "Android",
+   "n": 9,
+   "median": 1.0,
+   "q1": 0.74,
+   "q3": 1.0,
+   "min": 0.04,
+   "max": 1.5,
+   "ge7": null,
+   "ge30": 0,
+   "printed_ci30_pct": null,
+   "limit": 1
+  },
+  {
+   "key": "dropbox",
+   "group": "Android",
+   "n": 13,
+   "median": 2.4,
+   "q1": 1.5,
+   "q3": 2.9,
+   "min": 0.04,
+   "max": 3.1,
+   "ge7": null,
+   "ge30": 0,
+   "printed_ci30_pct": null,
+   "limit": 3
+  },
+  {
+   "key": "netstats",
+   "group": "Android",
+   "n": 13,
+   "median": 94.2,
+   "q1": 90.7,
+   "q3": 104.0,
+   "min": 16.8,
+   "max": 977.0,
+   "ge7": null,
+   "ge30": 12,
+   "printed_ci30_pct": null,
+   "limit": 90
+  },
+  {
+   "key": "procstats",
+   "group": "Android",
+   "n": 13,
+   "median": 3.2,
+   "q1": 2.2,
+   "q3": 13.3,
+   "min": 1.4,
+   "max": 102.1,
+   "ge7": null,
+   "ge30": null,
+   "printed_ci30_pct": null,
+   "limit": null
+  },
+  {
+   "key": "vendor_battery_hist",
+   "group": "Android",
+   "n": 11,
+   "median": 21.0,
+   "q1": 12.6,
+   "q3": 59.0,
+   "min": 7.3,
+   "max": 87.0,
+   "ge7": null,
+   "ge30": 5,
+   "printed_ci30_pct": null,
+   "limit": null
+  },
+  {
+   "key": "logcat_system",
+   "group": "Bug report",
+   "n": 7,
+   "median": 0.04,
+   "q1": 0.02,
+   "q3": 0.1,
+   "min": 0.005,
+   "max": 0.13,
+   "ge7": null,
+   "ge30": 0,
+   "printed_ci30_pct": null,
+   "limit": null
+  },
+  {
+   "key": "logcat_events",
+   "group": "Bug report",
+   "n": 7,
+   "median": 0.02,
+   "q1": 0.01,
+   "q3": 0.04,
+   "min": 0.005,
+   "max": 0.12,
+   "ge7": null,
+   "ge30": 0,
+   "printed_ci30_pct": null,
+   "limit": null
+  }
+ ]
+}

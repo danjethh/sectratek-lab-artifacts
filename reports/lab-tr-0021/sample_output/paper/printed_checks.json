@@ -1,0 +1,24 @@
+{
+ "clock_rule": {
+  "newest_1h_01_after": "fail",
+  "newest_1h_after": "pass",
+  "newest_72h_01_before": "fail",
+  "newest_72h_before": "pass",
+  "no_records": "no-anchor"
+ },
+ "fig2_rows": 17,
+ "min_coverage": 0.957,
+ "order_statistic_coverage_by_n": {
+  "11": 0.988,
+  "13": 0.978,
+  "22": 0.983,
+  "24": 0.977,
+  "25": 0.957,
+  "26": 0.971,
+  "7": 0.984,
+  "9": 0.961
+ },
+ "table4_wilson_30d_mismatches": [],
+ "table4_wilson_30d_rows_compared": 8,
+ "wilson_0_of_19_upper_pct": 17
+}

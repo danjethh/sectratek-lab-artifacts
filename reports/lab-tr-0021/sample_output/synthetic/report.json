@@ -1,0 +1,3162 @@
+{
+ "cells": [
+  {
+   "cell": "ios|ul_persist|all",
+   "ci_cov": 0.987,
+   "ci_hi": 8.64,
+   "ci_lo": 1.77,
+   "ge1d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    14,
+    0.0,
+    0.0,
+    0.215
+   ],
+   "ge7d": [
+    5,
+    14,
+    0.357,
+    0.163,
+    0.612
+   ],
+   "max": 9.83,
+   "median_d": 4.24,
+   "min": 1.36,
+   "n": 14,
+   "platform": "ios",
+   "q1": 3.61,
+   "q3": 7.39,
+   "store": "ul_persist"
+  },
+  {
+   "cell": "ios|ul_signpost|all",
+   "ci_cov": 0.979,
+   "ci_hi": 9.2,
+   "ci_lo": 3.21,
+   "ge1d": [
+    10,
+    10,
+    1.0,
+    0.722,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    10,
+    0.0,
+    0.0,
+    0.278
+   ],
+   "ge7d": [
+    3,
+    10,
+    0.3,
+    0.108,
+    0.603
+   ],
+   "max": 9.26,
+   "median_d": 5.76,
+   "min": 2.55,
+   "n": 10,
+   "platform": "ios",
+   "q1": 3.87,
+   "q3": 7.24,
+   "store": "ul_signpost"
+  },
+  {
+   "cell": "ios|ul_special|all",
+   "ci_cov": 0.987,
+   "ci_hi": 22.52,
+   "ci_lo": 9.02,
+   "ge1d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    14,
+    0.0,
+    0.0,
+    0.215
+   ],
+   "ge7d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "max": 26.85,
+   "median_d": 16.58,
+   "min": 7.24,
+   "n": 14,
+   "platform": "ios",
+   "q1": 9.5,
+   "q3": 21.21,
+   "store": "ul_special"
+  },
+  {
+   "cell": "ios|ul_highvolume|all",
+   "n": 2,
+   "platform": "ios",
+   "store": "ul_highvolume",
+   "suppressed": true
+  },
+  {
+   "cell": "ios|powerlog_archives|all",
+   "ci_cov": 0.987,
+   "ci_hi": 7.0,
+   "ci_lo": 6.0,
+   "ge1d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    14,
+    0.0,
+    0.0,
+    0.215
+   ],
+   "ge7d": [
+    7,
+    14,
+    0.5,
+    0.268,
+    0.732
+   ],
+   "max": 8.0,
+   "median_d": 6.62,
+   "min": 6.0,
+   "n": 14,
+   "platform": "ios",
+   "q1": 6.0,
+   "q3": 7.0,
+   "store": "powerlog_archives"
+  },
+  {
+   "cell": "ios|biome_appinfocus|all",
+   "ci_cov": 0.987,
+   "ci_hi": 46.72,
+   "ci_lo": 32.13,
+   "ge1d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "ge30d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "ge7d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "max": 53.78,
+   "median_d": 36.5,
+   "min": 31.7,
+   "n": 14,
+   "platform": "ios",
+   "q1": 32.26,
+   "q3": 44.13,
+   "store": "biome_appinfocus"
+  },
+  {
+   "cell": "ios|knowledgec|all",
+   "ci_cov": 0.987,
+   "ci_hi": 616.26,
+   "ci_lo": 121.48,
+   "ge1d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "ge30d": [
+    12,
+    14,
+    0.857,
+    0.601,
+    0.96
+   ],
+   "ge7d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "max": 657.47,
+   "median_d": 347.7,
+   "min": 26.06,
+   "n": 14,
+   "platform": "ios",
+   "q1": 139.9,
+   "q3": 567.6,
+   "store": "knowledgec"
+  },
+  {
+   "cell": "ios|knowledgec_other|all",
+   "ci_cov": 0.987,
+   "ci_hi": 27.81,
+   "ci_lo": 23.04,
+   "ge1d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    14,
+    0.0,
+    0.0,
+    0.215
+   ],
+   "ge7d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "max": 28.61,
+   "median_d": 26.06,
+   "min": 20.02,
+   "n": 14,
+   "platform": "ios",
+   "q1": 23.62,
+   "q3": 27.06,
+   "store": "knowledgec_other"
+  },
+  {
+   "cell": "ios|interactionc|all",
+   "ci_cov": 0.987,
+   "ci_hi": 167.69,
+   "ci_lo": 167.0,
+   "ge1d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "ge30d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "ge7d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "max": 168.0,
+   "median_d": 167.39,
+   "min": 166.72,
+   "n": 14,
+   "platform": "ios",
+   "q1": 167.17,
+   "q3": 167.65,
+   "store": "interactionc"
+  },
+  {
+   "cell": "android|usage_daily|all",
+   "ci_cov": 0.979,
+   "ci_hi": 10.06,
+   "ci_lo": 9.16,
+   "ge1d": [
+    10,
+    10,
+    1.0,
+    0.722,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    10,
+    0.0,
+    0.0,
+    0.278
+   ],
+   "ge7d": [
+    9,
+    10,
+    0.9,
+    0.596,
+    0.982
+   ],
+   "max": 10.15,
+   "median_d": 9.51,
+   "min": 1.86,
+   "n": 10,
+   "platform": "android",
+   "q1": 9.19,
+   "q3": 9.83,
+   "store": "usage_daily"
+  },
+  {
+   "cell": "android|usage_any|all",
+   "ci_cov": 0.979,
+   "ci_hi": 654.49,
+   "ci_lo": 261.3,
+   "ge1d": [
+    10,
+    10,
+    1.0,
+    0.722,
+    1.0
+   ],
+   "ge30d": [
+    10,
+    10,
+    1.0,
+    0.722,
+    1.0
+   ],
+   "ge7d": [
+    10,
+    10,
+    1.0,
+    0.722,
+    1.0
+   ],
+   "max": 689.32,
+   "median_d": 503.93,
+   "min": 244.94,
+   "n": 10,
+   "platform": "android",
+   "q1": 332.77,
+   "q3": 634.85,
+   "store": "usage_any"
+  },
+  {
+   "cell": "android|notif_history|all",
+   "ci_cov": 0.979,
+   "ci_hi": 1.41,
+   "ci_lo": 0.93,
+   "ge1d": [
+    6,
+    10,
+    0.6,
+    0.313,
+    0.832
+   ],
+   "ge30d": [
+    0,
+    10,
+    0.0,
+    0.0,
+    0.278
+   ],
+   "ge7d": [
+    0,
+    10,
+    0.0,
+    0.0,
+    0.278
+   ],
+   "max": 1.49,
+   "median_d": 1.13,
+   "min": 0.9,
+   "n": 10,
+   "platform": "android",
+   "q1": 0.95,
+   "q3": 1.35,
+   "store": "notif_history"
+  },
+  {
+   "cell": "android|dropbox|all",
+   "ci_cov": 0.979,
+   "ci_hi": 2.97,
+   "ci_lo": 1.39,
+   "ge1d": [
+    10,
+    10,
+    1.0,
+    0.722,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    10,
+    0.0,
+    0.0,
+    0.278
+   ],
+   "ge7d": [
+    0,
+    10,
+    0.0,
+    0.0,
+    0.278
+   ],
+   "max": 3.03,
+   "median_d": 2.42,
+   "min": 1.29,
+   "n": 10,
+   "platform": "android",
+   "q1": 1.7,
+   "q3": 2.78,
+   "store": "dropbox"
+  },
+  {
+   "cell": "android|netstats|all",
+   "ci_cov": 0.979,
+   "ci_hi": 102.14,
+   "ci_lo": 86.64,
+   "ge1d": [
+    10,
+    10,
+    1.0,
+    0.722,
+    1.0
+   ],
+   "ge30d": [
+    10,
+    10,
+    1.0,
+    0.722,
+    1.0
+   ],
+   "ge7d": [
+    10,
+    10,
+    1.0,
+    0.722,
+    1.0
+   ],
+   "max": 104.97,
+   "median_d": 94.49,
+   "min": 81.28,
+   "n": 10,
+   "platform": "android",
+   "q1": 88.23,
+   "q3": 101.35,
+   "store": "netstats"
+  },
+  {
+   "cell": "android|procstats|all",
+   "ci_cov": 0.979,
+   "ci_hi": 37.04,
+   "ci_lo": 7.57,
+   "ge1d": [
+    10,
+    10,
+    1.0,
+    0.722,
+    1.0
+   ],
+   "ge30d": [
+    4,
+    10,
+    0.4,
+    0.168,
+    0.687
+   ],
+   "ge7d": [
+    9,
+    10,
+    0.9,
+    0.596,
+    0.982
+   ],
+   "max": 38.36,
+   "median_d": 18.33,
+   "min": 4.23,
+   "n": 10,
+   "platform": "android",
+   "q1": 12.93,
+   "q3": 35.48,
+   "store": "procstats"
+  },
+  {
+   "cell": "android|vendor_battery_hist|all",
+   "ci_cov": 0.979,
+   "ci_hi": 52.44,
+   "ci_lo": 9.59,
+   "ge1d": [
+    10,
+    10,
+    1.0,
+    0.722,
+    1.0
+   ],
+   "ge30d": [
+    4,
+    10,
+    0.4,
+    0.168,
+    0.687
+   ],
+   "ge7d": [
+    10,
+    10,
+    1.0,
+    0.722,
+    1.0
+   ],
+   "max": 53.01,
+   "median_d": 25.64,
+   "min": 8.27,
+   "n": 10,
+   "platform": "android",
+   "q1": 19.28,
+   "q3": 38.4,
+   "store": "vendor_battery_hist"
+  },
+  {
+   "cell": "bugreport|logcat_system|all",
+   "ci_cov": 0.969,
+   "ci_hi": 0.12,
+   "ci_lo": 0.02,
+   "ge1d": [
+    0,
+    6,
+    0.0,
+    0.0,
+    0.39
+   ],
+   "ge30d": [
+    0,
+    6,
+    0.0,
+    0.0,
+    0.39
+   ],
+   "ge7d": [
+    0,
+    6,
+    0.0,
+    0.0,
+    0.39
+   ],
+   "max": 0.12,
+   "median_d": 0.05,
+   "min": 0.02,
+   "n": 6,
+   "platform": "bugreport",
+   "q1": 0.04,
+   "q3": 0.08,
+   "store": "logcat_system"
+  },
+  {
+   "cell": "bugreport|logcat_events|all",
+   "ci_cov": 0.969,
+   "ci_hi": 0.11,
+   "ci_lo": 0.02,
+   "ge1d": [
+    0,
+    6,
+    0.0,
+    0.0,
+    0.39
+   ],
+   "ge30d": [
+    0,
+    6,
+    0.0,
+    0.0,
+    0.39
+   ],
+   "ge7d": [
+    0,
+    6,
+    0.0,
+    0.0,
+    0.39
+   ],
+   "max": 0.11,
+   "median_d": 0.06,
+   "min": 0.02,
+   "n": 6,
+   "platform": "bugreport",
+   "q1": 0.03,
+   "q3": 0.1,
+   "store": "logcat_events"
+  }
+ ],
+ "checks": {
+  "android|dropbox_name_le_mtime": [
+   40,
+   40
+  ],
+  "android|netstats_name_le_mtime": [
+   50,
+   50
+  ],
+  "android|notif_history_name_le_mtime": [
+   30,
+   30
+  ],
+  "android|procstats_name_le_mtime": [
+   80,
+   80
+  ],
+  "android|usage_name_le_mtime": [
+   117,
+   125
+  ],
+  "android|vendor_battery_hist_name_le_mtime": [
+   40,
+   40
+  ],
+  "bugreport|logcat_events_backward_steps_over_hour": [
+   0,
+   6
+  ],
+  "bugreport|logcat_system_backward_steps_over_hour": [
+   0,
+   6
+  ],
+  "ios|biome_name_le_mtime": [
+   128,
+   128
+  ],
+  "ios|interactionc|wal_changes_oldest": [
+   9,
+   14
+  ],
+  "ios|knowledgec|wal_changes_oldest": [
+   0,
+   14
+  ],
+  "ios|ul_highvolume_hdr_le_mtime": [
+   4,
+   4
+  ],
+  "ios|ul_persist_hdr_le_mtime": [
+   80,
+   80
+  ],
+  "ios|ul_signpost_hdr_le_mtime": [
+   30,
+   30
+  ],
+  "ios|ul_special_hdr_le_mtime": [
+   64,
+   64
+  ]
+ },
+ "clock": {
+  "android": {
+   "anchor_lag_h_median_min_max_n": [
+    16.62,
+    3.54,
+    29.77,
+    10
+   ],
+   "clock_failed": 0,
+   "records_after_acq": 0,
+   "records_before_floor": 0
+  },
+  "bugreport": {
+   "clock_failed": 0,
+   "records_after_acq": 0,
+   "records_before_floor": 0
+  },
+  "ios": {
+   "anchor_lag_h_median_min_max_n": [
+    27.36,
+    2.0,
+    37.63,
+    14
+   ],
+   "clock_failed": 1,
+   "records_after_acq": 0,
+   "records_before_floor": 0
+  }
+ },
+ "correlations": {
+  "persist_bytes_per_day_median_min_max": [
+   861.1,
+   259.6,
+   2607.0
+  ],
+  "persist_bytes_vs_horizon_spearman_n": [
+   -0.398,
+   14
+  ]
+ },
+ "errors": [],
+ "excluded_by_pattern": 0,
+ "posthoc": {
+  "android_dropbox_within_0_to_3.1_d": [
+   10,
+   10
+  ],
+  "android_netstats_within_75_to_105_d": [
+   10,
+   10
+  ],
+  "android_notif_history_within_0_to_1.5_d": [
+   10,
+   10
+  ],
+  "android_usage_daily_within_0_to_10.2_d": [
+   10,
+   10
+  ],
+  "bugreport_body_changes_on_grid": [
+   3,
+   6
+  ],
+  "bugreport_body_stable_to_2pct": [
+   3,
+   6
+  ],
+  "bugreport_head_strays_system": [
+   0,
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "bugreport_oldest_over_body_ratio": [
+   105,
+   184,
+   331,
+   359
+  ],
+  "bugreport_reports_with_head_strays": [
+   4,
+   6
+  ],
+  "bugreport_spearman_lines_vs_body_horizon": 0.829,
+  "bugreport_system_body_ge_1d": [
+   0,
+   6
+  ],
+  "bugreport_system_lines_min_median_max": [
+   900,
+   1501,
+   2403
+  ],
+  "bugreport_system_oldest_line_ge_1d": [
+   4,
+   6
+  ],
+  "interactionc_nowal_minus_wal_d_min_median_max": [
+   0.0,
+   6.52,
+   25.61
+  ],
+  "interactionc_wal_direction": {
+   "nowal_older": 9,
+   "same": 5,
+   "wal_older": 0
+  },
+  "ios_devices_every_store_under_1d": 0,
+  "ios_interactionc_166_to_170_d": [
+   14,
+   14
+  ],
+  "ios_knowledgec_gt_365_d": [
+   7,
+   14
+  ],
+  "knowledgec_oldest_stream_is_signals": [
+   12,
+   14
+  ],
+  "knowledgec_share_records_older_30d_median_min_max": [
+   0.073,
+   0.0,
+   0.073
+  ]
+ },
+ "prevalence": {
+  "android": {
+   "dropbox": [
+    10,
+    10
+   ],
+   "netstats": [
+    10,
+    10
+   ],
+   "notif_history": [
+    10,
+    10
+   ],
+   "procstats": [
+    10,
+    10
+   ],
+   "usage_any": [
+    10,
+    10
+   ],
+   "usage_daily": [
+    10,
+    10
+   ],
+   "vendor_battery_hist": [
+    10,
+    10
+   ]
+  },
+  "bugreport": {
+   "logcat_events": [
+    6,
+    6
+   ],
+   "logcat_system": [
+    6,
+    6
+   ]
+  },
+  "ios": {
+   "biome_appinfocus": [
+    16,
+    16
+   ],
+   "interactionc": [
+    16,
+    16
+   ],
+   "knowledgec": [
+    16,
+    16
+   ],
+   "knowledgec_other": [
+    16,
+    16
+   ],
+   "powerlog_archives": [
+    16,
+    16
+   ],
+   "ul_highvolume": [
+    2,
+    16
+   ],
+   "ul_persist": [
+    16,
+    16
+   ],
+   "ul_signpost": [
+    10,
+    16
+   ],
+   "ul_special": [
+    16,
+    16
+   ]
+  }
+ },
+ "reach30": {
+  "android": [
+   10,
+   10,
+   1.0,
+   0.722,
+   1.0
+  ],
+  "bugreport": [
+   0,
+   6,
+   0.0,
+   0.0,
+   0.39
+  ],
+  "ios": [
+   14,
+   14,
+   1.0,
+   0.785,
+   1.0
+  ]
+ },
+ "sample": {
+  "android": {
+   "clock_check": {
+    "pass": 10
+   },
+   "clock_checked": 10,
+   "devices": 10,
+   "errors": 0,
+   "extractions": 10,
+   "readable": 10,
+   "tacq_src": {
+    "file": 3,
+    "record": 7
+   }
+  },
+  "bugreport": {
+   "clock_check": {
+    "pass-same-clock": 6
+   },
+   "clock_checked": 6,
+   "devices": 6,
+   "errors": 0,
+   "extractions": 6,
+   "readable": 6,
+   "tacq_src": {
+    "report header": 6
+   }
+  },
+  "ios": {
+   "clock_check": {
+    "fail": 1,
+    "pass": 15
+   },
+   "clock_checked": 14,
+   "devices": 15,
+   "errors": 0,
+   "extractions": 16,
+   "readable": 16,
+   "tacq_src": {
+    "file": 3,
+    "record": 13
+   }
+  }
+ },
+ "sensitivity": {
+  "android|dropbox|newest_lag": {
+   "cell": "newest_lag",
+   "ci_cov": 0.979,
+   "ci_hi": 0.99,
+   "ci_lo": 0.16,
+   "ge1d": [
+    1,
+    10,
+    0.1,
+    0.018,
+    0.404
+   ],
+   "ge30d": [
+    0,
+    10,
+    0.0,
+    0.0,
+    0.278
+   ],
+   "ge7d": [
+    0,
+    10,
+    0.0,
+    0.0,
+    0.278
+   ],
+   "max": 1.24,
+   "median_d": 0.67,
+   "min": 0.15,
+   "n": 10,
+   "q1": 0.24,
+   "q3": 0.92
+  },
+  "android|netstats|newest_lag": {
+   "cell": "newest_lag",
+   "ci_cov": 0.979,
+   "ci_hi": 15.99,
+   "ci_lo": 15.16,
+   "ge1d": [
+    10,
+    10,
+    1.0,
+    0.722,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    10,
+    0.0,
+    0.0,
+    0.278
+   ],
+   "ge7d": [
+    10,
+    10,
+    1.0,
+    0.722,
+    1.0
+   ],
+   "max": 16.24,
+   "median_d": 15.67,
+   "min": 15.15,
+   "n": 10,
+   "q1": 15.24,
+   "q3": 15.92
+  },
+  "android|notif_history|newest_lag": {
+   "cell": "newest_lag",
+   "ci_cov": 0.979,
+   "ci_hi": 0.99,
+   "ci_lo": 0.16,
+   "ge1d": [
+    1,
+    10,
+    0.1,
+    0.018,
+    0.404
+   ],
+   "ge30d": [
+    0,
+    10,
+    0.0,
+    0.0,
+    0.278
+   ],
+   "ge7d": [
+    0,
+    10,
+    0.0,
+    0.0,
+    0.278
+   ],
+   "max": 1.24,
+   "median_d": 0.67,
+   "min": 0.15,
+   "n": 10,
+   "q1": 0.24,
+   "q3": 0.92
+  },
+  "android|procstats|newest_lag": {
+   "cell": "newest_lag",
+   "ci_cov": 0.979,
+   "ci_hi": 0.99,
+   "ci_lo": 0.16,
+   "ge1d": [
+    1,
+    10,
+    0.1,
+    0.018,
+    0.404
+   ],
+   "ge30d": [
+    0,
+    10,
+    0.0,
+    0.0,
+    0.278
+   ],
+   "ge7d": [
+    0,
+    10,
+    0.0,
+    0.0,
+    0.278
+   ],
+   "max": 1.24,
+   "median_d": 0.67,
+   "min": 0.15,
+   "n": 10,
+   "q1": 0.24,
+   "q3": 0.92
+  },
+  "android|usage_any|newest_lag": {
+   "cell": "newest_lag",
+   "ci_cov": 0.979,
+   "ci_hi": 0.86,
+   "ci_lo": 0.15,
+   "ge1d": [
+    0,
+    10,
+    0.0,
+    0.0,
+    0.278
+   ],
+   "ge30d": [
+    0,
+    10,
+    0.0,
+    0.0,
+    0.278
+   ],
+   "ge7d": [
+    0,
+    10,
+    0.0,
+    0.0,
+    0.278
+   ],
+   "max": 0.88,
+   "median_d": 0.31,
+   "min": 0.06,
+   "n": 10,
+   "q1": 0.16,
+   "q3": 0.68
+  },
+  "android|usage_daily|newest_lag": {
+   "cell": "newest_lag",
+   "ci_cov": 0.979,
+   "ci_hi": 0.86,
+   "ci_lo": 0.15,
+   "ge1d": [
+    0,
+    10,
+    0.0,
+    0.0,
+    0.278
+   ],
+   "ge30d": [
+    0,
+    10,
+    0.0,
+    0.0,
+    0.278
+   ],
+   "ge7d": [
+    0,
+    10,
+    0.0,
+    0.0,
+    0.278
+   ],
+   "max": 0.88,
+   "median_d": 0.31,
+   "min": 0.06,
+   "n": 10,
+   "q1": 0.16,
+   "q3": 0.68
+  },
+  "android|vendor_battery_hist|newest_lag": {
+   "cell": "newest_lag",
+   "ci_cov": 0.979,
+   "ci_hi": 0.99,
+   "ci_lo": 0.16,
+   "ge1d": [
+    1,
+    10,
+    0.1,
+    0.018,
+    0.404
+   ],
+   "ge30d": [
+    0,
+    10,
+    0.0,
+    0.0,
+    0.278
+   ],
+   "ge7d": [
+    0,
+    10,
+    0.0,
+    0.0,
+    0.278
+   ],
+   "max": 1.24,
+   "median_d": 0.67,
+   "min": 0.15,
+   "n": 10,
+   "q1": 0.24,
+   "q3": 0.92
+  },
+  "bugreport|logcat_events|newest_lag": {
+   "cell": "newest_lag",
+   "ci_cov": 0.969,
+   "ci_hi": 0.0,
+   "ci_lo": 0.0,
+   "ge1d": [
+    0,
+    6,
+    0.0,
+    0.0,
+    0.39
+   ],
+   "ge30d": [
+    0,
+    6,
+    0.0,
+    0.0,
+    0.39
+   ],
+   "ge7d": [
+    0,
+    6,
+    0.0,
+    0.0,
+    0.39
+   ],
+   "max": 0.0,
+   "median_d": 0.0,
+   "min": 0.0,
+   "n": 6,
+   "q1": 0.0,
+   "q3": 0.0
+  },
+  "bugreport|logcat_events|oldest_line": {
+   "cell": "oldest_line",
+   "ci_cov": 0.969,
+   "ci_hi": 0.11,
+   "ci_lo": 0.02,
+   "ge1d": [
+    0,
+    6,
+    0.0,
+    0.0,
+    0.39
+   ],
+   "ge30d": [
+    0,
+    6,
+    0.0,
+    0.0,
+    0.39
+   ],
+   "ge7d": [
+    0,
+    6,
+    0.0,
+    0.0,
+    0.39
+   ],
+   "max": 0.11,
+   "median_d": 0.06,
+   "min": 0.02,
+   "n": 6,
+   "q1": 0.03,
+   "q3": 0.1
+  },
+  "bugreport|logcat_system|newest_lag": {
+   "cell": "newest_lag",
+   "ci_cov": 0.969,
+   "ci_hi": 0.0,
+   "ci_lo": 0.0,
+   "ge1d": [
+    0,
+    6,
+    0.0,
+    0.0,
+    0.39
+   ],
+   "ge30d": [
+    0,
+    6,
+    0.0,
+    0.0,
+    0.39
+   ],
+   "ge7d": [
+    0,
+    6,
+    0.0,
+    0.0,
+    0.39
+   ],
+   "max": 0.0,
+   "median_d": 0.0,
+   "min": 0.0,
+   "n": 6,
+   "q1": 0.0,
+   "q3": 0.0
+  },
+  "bugreport|logcat_system|oldest_line": {
+   "cell": "oldest_line",
+   "ci_cov": 0.969,
+   "ci_hi": 14.96,
+   "ci_lo": 0.02,
+   "ge1d": [
+    4,
+    6,
+    0.667,
+    0.3,
+    0.903
+   ],
+   "ge30d": [
+    0,
+    6,
+    0.0,
+    0.0,
+    0.39
+   ],
+   "ge7d": [
+    4,
+    6,
+    0.667,
+    0.3,
+    0.903
+   ],
+   "max": 14.96,
+   "median_d": 11.27,
+   "min": 0.02,
+   "n": 6,
+   "q1": 2.82,
+   "q3": 12.67
+  },
+  "ios|biome_appinfocus|newest_lag": {
+   "cell": "newest_lag",
+   "ci_cov": 0.987,
+   "ci_hi": 9.0,
+   "ci_lo": 9.0,
+   "ge1d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    14,
+    0.0,
+    0.0,
+    0.215
+   ],
+   "ge7d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "max": 9.0,
+   "median_d": 9.0,
+   "min": 9.0,
+   "n": 14,
+   "q1": 9.0,
+   "q3": 9.0
+  },
+  "ios|interactionc|newest_lag": {
+   "cell": "newest_lag",
+   "ci_cov": 0.987,
+   "ci_hi": 1.44,
+   "ci_lo": 0.43,
+   "ge1d": [
+    8,
+    14,
+    0.571,
+    0.326,
+    0.786
+   ],
+   "ge30d": [
+    0,
+    14,
+    0.0,
+    0.0,
+    0.215
+   ],
+   "ge7d": [
+    0,
+    14,
+    0.0,
+    0.0,
+    0.215
+   ],
+   "max": 1.57,
+   "median_d": 1.13,
+   "min": 0.08,
+   "n": 14,
+   "q1": 0.59,
+   "q3": 1.37
+  },
+  "ios|interactionc|p01": {
+   "cell": "p01",
+   "ci_cov": 0.987,
+   "ci_hi": 167.26,
+   "ci_lo": 165.6,
+   "ge1d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "ge30d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "ge7d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "max": 167.62,
+   "median_d": 166.56,
+   "min": 162.66,
+   "n": 14,
+   "q1": 166.01,
+   "q3": 167.06
+  },
+  "ios|knowledgec_other|newest_lag": {
+   "cell": "newest_lag",
+   "ci_cov": 0.987,
+   "ci_hi": 1.44,
+   "ci_lo": 0.43,
+   "ge1d": [
+    8,
+    14,
+    0.571,
+    0.326,
+    0.786
+   ],
+   "ge30d": [
+    0,
+    14,
+    0.0,
+    0.0,
+    0.215
+   ],
+   "ge7d": [
+    0,
+    14,
+    0.0,
+    0.0,
+    0.215
+   ],
+   "max": 1.57,
+   "median_d": 1.13,
+   "min": 0.08,
+   "n": 14,
+   "q1": 0.59,
+   "q3": 1.37
+  },
+  "ios|knowledgec|infocus": {
+   "cell": "infocus",
+   "ci_cov": 0.987,
+   "ci_hi": 27.81,
+   "ci_lo": 23.04,
+   "ge1d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    14,
+    0.0,
+    0.0,
+    0.215
+   ],
+   "ge7d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "max": 28.61,
+   "median_d": 26.06,
+   "min": 20.02,
+   "n": 14,
+   "q1": 23.61,
+   "q3": 27.06
+  },
+  "ios|knowledgec|newest_lag": {
+   "cell": "newest_lag",
+   "ci_cov": 0.987,
+   "ci_hi": 1.44,
+   "ci_lo": 0.43,
+   "ge1d": [
+    8,
+    14,
+    0.571,
+    0.326,
+    0.786
+   ],
+   "ge30d": [
+    0,
+    14,
+    0.0,
+    0.0,
+    0.215
+   ],
+   "ge7d": [
+    0,
+    14,
+    0.0,
+    0.0,
+    0.215
+   ],
+   "max": 1.57,
+   "median_d": 1.13,
+   "min": 0.08,
+   "n": 14,
+   "q1": 0.59,
+   "q3": 1.37
+  },
+  "ios|knowledgec|p01": {
+   "cell": "p01",
+   "ci_cov": 0.987,
+   "ci_hi": 616.26,
+   "ci_lo": 121.48,
+   "ge1d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "ge30d": [
+    12,
+    14,
+    0.857,
+    0.601,
+    0.96
+   ],
+   "ge7d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "max": 657.47,
+   "median_d": 347.7,
+   "min": 26.06,
+   "n": 14,
+   "q1": 139.9,
+   "q3": 567.6
+  },
+  "ios|powerlog_archives|newest_lag": {
+   "cell": "newest_lag",
+   "ci_cov": 0.987,
+   "ci_hi": 2.0,
+   "ci_lo": 1.0,
+   "ge1d": [
+    14,
+    14,
+    1.0,
+    0.785,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    14,
+    0.0,
+    0.0,
+    0.215
+   ],
+   "ge7d": [
+    0,
+    14,
+    0.0,
+    0.0,
+    0.215
+   ],
+   "max": 2.0,
+   "median_d": 1.0,
+   "min": 1.0,
+   "n": 14,
+   "q1": 1.0,
+   "q3": 1.81
+  },
+  "ios|ul_highvolume|newest_lag": {
+   "cell": "newest_lag",
+   "n": 2,
+   "suppressed": true
+  },
+  "ios|ul_persist|newest_lag": {
+   "cell": "newest_lag",
+   "ci_cov": 0.987,
+   "ci_hi": 1.44,
+   "ci_lo": 0.43,
+   "ge1d": [
+    8,
+    14,
+    0.571,
+    0.326,
+    0.786
+   ],
+   "ge30d": [
+    0,
+    14,
+    0.0,
+    0.0,
+    0.215
+   ],
+   "ge7d": [
+    0,
+    14,
+    0.0,
+    0.0,
+    0.215
+   ],
+   "max": 1.57,
+   "median_d": 1.13,
+   "min": 0.08,
+   "n": 14,
+   "q1": 0.59,
+   "q3": 1.37
+  },
+  "ios|ul_signpost|newest_lag": {
+   "cell": "newest_lag",
+   "ci_cov": 0.979,
+   "ci_hi": 1.47,
+   "ci_lo": 0.5,
+   "ge1d": [
+    6,
+    10,
+    0.6,
+    0.313,
+    0.832
+   ],
+   "ge30d": [
+    0,
+    10,
+    0.0,
+    0.0,
+    0.278
+   ],
+   "ge7d": [
+    0,
+    10,
+    0.0,
+    0.0,
+    0.278
+   ],
+   "max": 1.57,
+   "median_d": 1.13,
+   "min": 0.43,
+   "n": 10,
+   "q1": 0.85,
+   "q3": 1.37
+  },
+  "ios|ul_special|newest_lag": {
+   "cell": "newest_lag",
+   "ci_cov": 0.987,
+   "ci_hi": 1.44,
+   "ci_lo": 0.43,
+   "ge1d": [
+    8,
+    14,
+    0.571,
+    0.326,
+    0.786
+   ],
+   "ge30d": [
+    0,
+    14,
+    0.0,
+    0.0,
+    0.215
+   ],
+   "ge7d": [
+    0,
+    14,
+    0.0,
+    0.0,
+    0.215
+   ],
+   "max": 1.57,
+   "median_d": 1.13,
+   "min": 0.08,
+   "n": 14,
+   "q1": 0.59,
+   "q3": 1.37
+  }
+ },
+ "strata": [
+  {
+   "cell": "ios|ul_persist|os_major=17",
+   "ci_cov": 0.938,
+   "ci_hi": 9.26,
+   "ci_lo": 1.36,
+   "ge1d": [
+    5,
+    5,
+    1.0,
+    0.566,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    5,
+    0.0,
+    0.0,
+    0.434
+   ],
+   "ge7d": [
+    1,
+    5,
+    0.2,
+    0.036,
+    0.624
+   ],
+   "max": 9.26,
+   "median_d": 3.61,
+   "min": 1.36,
+   "n": 5,
+   "platform": "ios",
+   "q1": 1.77,
+   "q3": 3.62,
+   "store": "ul_persist"
+  },
+  {
+   "cell": "ios|ul_persist|os_major=26",
+   "ci_cov": 0.961,
+   "ci_hi": 8.64,
+   "ci_lo": 4.05,
+   "ge1d": [
+    9,
+    9,
+    1.0,
+    0.701,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    9,
+    0.0,
+    0.0,
+    0.299
+   ],
+   "ge7d": [
+    4,
+    9,
+    0.444,
+    0.189,
+    0.733
+   ],
+   "max": 9.83,
+   "median_d": 4.46,
+   "min": 1.64,
+   "n": 9,
+   "platform": "ios",
+   "q1": 4.06,
+   "q3": 7.5,
+   "store": "ul_persist"
+  },
+  {
+   "cell": "ios|ul_persist|device_class=phone",
+   "ci_cov": 0.961,
+   "ci_hi": 7.5,
+   "ci_lo": 1.77,
+   "ge1d": [
+    12,
+    12,
+    1.0,
+    0.757,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    12,
+    0.0,
+    0.0,
+    0.243
+   ],
+   "ge7d": [
+    4,
+    12,
+    0.333,
+    0.138,
+    0.609
+   ],
+   "max": 9.83,
+   "median_d": 4.05,
+   "min": 1.36,
+   "n": 12,
+   "platform": "ios",
+   "q1": 3.15,
+   "q3": 7.16,
+   "store": "ul_persist"
+  },
+  {
+   "cell": "ios|ul_persist|device_class=tablet",
+   "n": 2,
+   "platform": "ios",
+   "store": "ul_persist",
+   "suppressed": true
+  },
+  {
+   "cell": "ios|ul_signpost|os_major=17",
+   "n": 4,
+   "platform": "ios",
+   "store": "ul_signpost",
+   "suppressed": true
+  },
+  {
+   "cell": "ios|ul_signpost|os_major=26",
+   "ci_cov": 0.969,
+   "ci_hi": 9.26,
+   "ci_lo": 2.55,
+   "ge1d": [
+    6,
+    6,
+    1.0,
+    0.61,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    6,
+    0.0,
+    0.0,
+    0.39
+   ],
+   "ge7d": [
+    2,
+    6,
+    0.333,
+    0.097,
+    0.7
+   ],
+   "max": 9.26,
+   "median_d": 6.11,
+   "min": 2.55,
+   "n": 6,
+   "platform": "ios",
+   "q1": 5.68,
+   "q3": 8.47,
+   "store": "ul_signpost"
+  },
+  {
+   "cell": "ios|ul_signpost|device_class=phone",
+   "ci_cov": 0.992,
+   "ci_hi": 9.26,
+   "ci_lo": 2.55,
+   "ge1d": [
+    8,
+    8,
+    1.0,
+    0.676,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    8,
+    0.0,
+    0.0,
+    0.324
+   ],
+   "ge7d": [
+    3,
+    8,
+    0.375,
+    0.137,
+    0.694
+   ],
+   "max": 9.26,
+   "median_d": 6.11,
+   "min": 2.55,
+   "n": 8,
+   "platform": "ios",
+   "q1": 4.15,
+   "q3": 7.96,
+   "store": "ul_signpost"
+  },
+  {
+   "cell": "ios|ul_signpost|device_class=tablet",
+   "n": 2,
+   "platform": "ios",
+   "store": "ul_signpost",
+   "suppressed": true
+  },
+  {
+   "cell": "ios|ul_special|os_major=17",
+   "ci_cov": 0.938,
+   "ci_hi": 26.85,
+   "ci_lo": 9.59,
+   "ge1d": [
+    5,
+    5,
+    1.0,
+    0.566,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    5,
+    0.0,
+    0.0,
+    0.434
+   ],
+   "ge7d": [
+    5,
+    5,
+    1.0,
+    0.566,
+    1.0
+   ],
+   "max": 26.85,
+   "median_d": 22.52,
+   "min": 9.59,
+   "n": 5,
+   "platform": "ios",
+   "q1": 16.19,
+   "q3": 22.67,
+   "store": "ul_special"
+  },
+  {
+   "cell": "ios|ul_special|os_major=26",
+   "ci_cov": 0.961,
+   "ci_hi": 20.47,
+   "ci_lo": 8.7,
+   "ge1d": [
+    9,
+    9,
+    1.0,
+    0.701,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    9,
+    0.0,
+    0.0,
+    0.299
+   ],
+   "ge7d": [
+    9,
+    9,
+    1.0,
+    0.701,
+    1.0
+   ],
+   "max": 21.46,
+   "median_d": 15.95,
+   "min": 7.24,
+   "n": 9,
+   "platform": "ios",
+   "q1": 9.02,
+   "q3": 18.65,
+   "store": "ul_special"
+  },
+  {
+   "cell": "ios|ul_special|device_class=phone",
+   "ci_cov": 0.961,
+   "ci_hi": 21.46,
+   "ci_lo": 9.02,
+   "ge1d": [
+    12,
+    12,
+    1.0,
+    0.757,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    12,
+    0.0,
+    0.0,
+    0.243
+   ],
+   "ge7d": [
+    12,
+    12,
+    1.0,
+    0.757,
+    1.0
+   ],
+   "max": 26.85,
+   "median_d": 16.58,
+   "min": 7.24,
+   "n": 12,
+   "platform": "ios",
+   "q1": 9.45,
+   "q3": 20.72,
+   "store": "ul_special"
+  },
+  {
+   "cell": "ios|ul_special|device_class=tablet",
+   "n": 2,
+   "platform": "ios",
+   "store": "ul_special",
+   "suppressed": true
+  },
+  {
+   "cell": "ios|powerlog_archives|os_major=17",
+   "ci_cov": 0.938,
+   "ci_hi": 7.0,
+   "ci_lo": 6.0,
+   "ge1d": [
+    5,
+    5,
+    1.0,
+    0.566,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    5,
+    0.0,
+    0.0,
+    0.434
+   ],
+   "ge7d": [
+    4,
+    5,
+    0.8,
+    0.376,
+    0.964
+   ],
+   "max": 7.0,
+   "median_d": 7.0,
+   "min": 6.0,
+   "n": 5,
+   "platform": "ios",
+   "q1": 7.0,
+   "q3": 7.0,
+   "store": "powerlog_archives"
+  },
+  {
+   "cell": "ios|powerlog_archives|os_major=26",
+   "ci_cov": 0.961,
+   "ci_hi": 7.0,
+   "ci_lo": 6.0,
+   "ge1d": [
+    9,
+    9,
+    1.0,
+    0.701,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    9,
+    0.0,
+    0.0,
+    0.299
+   ],
+   "ge7d": [
+    3,
+    9,
+    0.333,
+    0.121,
+    0.646
+   ],
+   "max": 8.0,
+   "median_d": 6.0,
+   "min": 6.0,
+   "n": 9,
+   "platform": "ios",
+   "q1": 6.0,
+   "q3": 7.0,
+   "store": "powerlog_archives"
+  },
+  {
+   "cell": "ios|powerlog_archives|device_class=phone",
+   "ci_cov": 0.961,
+   "ci_hi": 7.0,
+   "ci_lo": 6.0,
+   "ge1d": [
+    12,
+    12,
+    1.0,
+    0.757,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    12,
+    0.0,
+    0.0,
+    0.243
+   ],
+   "ge7d": [
+    5,
+    12,
+    0.417,
+    0.193,
+    0.68
+   ],
+   "max": 8.0,
+   "median_d": 6.12,
+   "min": 6.0,
+   "n": 12,
+   "platform": "ios",
+   "q1": 6.0,
+   "q3": 7.0,
+   "store": "powerlog_archives"
+  },
+  {
+   "cell": "ios|powerlog_archives|device_class=tablet",
+   "n": 2,
+   "platform": "ios",
+   "store": "powerlog_archives",
+   "suppressed": true
+  },
+  {
+   "cell": "ios|biome_appinfocus|os_major=17",
+   "ci_cov": 0.938,
+   "ci_hi": 43.0,
+   "ci_lo": 31.7,
+   "ge1d": [
+    5,
+    5,
+    1.0,
+    0.566,
+    1.0
+   ],
+   "ge30d": [
+    5,
+    5,
+    1.0,
+    0.566,
+    1.0
+   ],
+   "ge7d": [
+    5,
+    5,
+    1.0,
+    0.566,
+    1.0
+   ],
+   "max": 43.0,
+   "median_d": 32.25,
+   "min": 31.7,
+   "n": 5,
+   "platform": "ios",
+   "q1": 31.73,
+   "q3": 39.74,
+   "store": "biome_appinfocus"
+  },
+  {
+   "cell": "ios|biome_appinfocus|os_major=26",
+   "ci_cov": 0.961,
+   "ci_hi": 52.41,
+   "ci_lo": 32.3,
+   "ge1d": [
+    9,
+    9,
+    1.0,
+    0.701,
+    1.0
+   ],
+   "ge30d": [
+    9,
+    9,
+    1.0,
+    0.701,
+    1.0
+   ],
+   "ge7d": [
+    9,
+    9,
+    1.0,
+    0.701,
+    1.0
+   ],
+   "max": 53.78,
+   "median_d": 39.64,
+   "min": 32.13,
+   "n": 9,
+   "platform": "ios",
+   "q1": 32.47,
+   "q3": 46.72,
+   "store": "biome_appinfocus"
+  },
+  {
+   "cell": "ios|biome_appinfocus|device_class=phone",
+   "ci_cov": 0.961,
+   "ci_hi": 44.5,
+   "ci_lo": 32.25,
+   "ge1d": [
+    12,
+    12,
+    1.0,
+    0.757,
+    1.0
+   ],
+   "ge30d": [
+    12,
+    12,
+    1.0,
+    0.757,
+    1.0
+   ],
+   "ge7d": [
+    12,
+    12,
+    1.0,
+    0.757,
+    1.0
+   ],
+   "max": 53.78,
+   "median_d": 36.5,
+   "min": 31.7,
+   "n": 12,
+   "platform": "ios",
+   "q1": 32.29,
+   "q3": 43.38,
+   "store": "biome_appinfocus"
+  },
+  {
+   "cell": "ios|biome_appinfocus|device_class=tablet",
+   "n": 2,
+   "platform": "ios",
+   "store": "biome_appinfocus",
+   "suppressed": true
+  },
+  {
+   "cell": "ios|knowledgec|os_major=17",
+   "ci_cov": 0.938,
+   "ci_hi": 657.47,
+   "ci_lo": 26.06,
+   "ge1d": [
+    5,
+    5,
+    1.0,
+    0.566,
+    1.0
+   ],
+   "ge30d": [
+    4,
+    5,
+    0.8,
+    0.376,
+    0.964
+   ],
+   "ge7d": [
+    5,
+    5,
+    1.0,
+    0.566,
+    1.0
+   ],
+   "max": 657.47,
+   "median_d": 477.62,
+   "min": 26.06,
+   "n": 5,
+   "platform": "ios",
+   "q1": 292.36,
+   "q3": 616.26,
+   "store": "knowledgec"
+  },
+  {
+   "cell": "ios|knowledgec|os_major=26",
+   "ci_cov": 0.961,
+   "ci_hi": 597.6,
+   "ci_lo": 121.48,
+   "ge1d": [
+    9,
+    9,
+    1.0,
+    0.701,
+    1.0
+   ],
+   "ge30d": [
+    8,
+    9,
+    0.889,
+    0.565,
+    0.98
+   ],
+   "ge7d": [
+    9,
+    9,
+    1.0,
+    0.701,
+    1.0
+   ],
+   "max": 654.74,
+   "median_d": 227.8,
+   "min": 26.17,
+   "n": 9,
+   "platform": "ios",
+   "q1": 132.85,
+   "q3": 426.4,
+   "store": "knowledgec"
+  },
+  {
+   "cell": "ios|knowledgec|device_class=phone",
+   "ci_cov": 0.961,
+   "ci_hi": 616.26,
+   "ci_lo": 121.48,
+   "ge1d": [
+    12,
+    12,
+    1.0,
+    0.757,
+    1.0
+   ],
+   "ge30d": [
+    10,
+    12,
+    0.833,
+    0.552,
+    0.953
+   ],
+   "ge7d": [
+    12,
+    12,
+    1.0,
+    0.757,
+    1.0
+   ],
+   "max": 657.47,
+   "median_d": 414.72,
+   "min": 26.06,
+   "n": 12,
+   "platform": "ios",
+   "q1": 130.01,
+   "q3": 602.26,
+   "store": "knowledgec"
+  },
+  {
+   "cell": "ios|knowledgec|device_class=tablet",
+   "n": 2,
+   "platform": "ios",
+   "store": "knowledgec",
+   "suppressed": true
+  },
+  {
+   "cell": "ios|knowledgec_other|os_major=17",
+   "ci_cov": 0.938,
+   "ci_hi": 27.35,
+   "ci_lo": 20.02,
+   "ge1d": [
+    5,
+    5,
+    1.0,
+    0.566,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    5,
+    0.0,
+    0.0,
+    0.434
+   ],
+   "ge7d": [
+    5,
+    5,
+    1.0,
+    0.566,
+    1.0
+   ],
+   "max": 27.35,
+   "median_d": 26.06,
+   "min": 20.02,
+   "n": 5,
+   "platform": "ios",
+   "q1": 21.02,
+   "q3": 26.18,
+   "store": "knowledgec_other"
+  },
+  {
+   "cell": "ios|knowledgec_other|os_major=26",
+   "ci_cov": 0.961,
+   "ci_hi": 28.08,
+   "ci_lo": 23.51,
+   "ge1d": [
+    9,
+    9,
+    1.0,
+    0.701,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    9,
+    0.0,
+    0.0,
+    0.299
+   ],
+   "ge7d": [
+    9,
+    9,
+    1.0,
+    0.701,
+    1.0
+   ],
+   "max": 28.61,
+   "median_d": 26.07,
+   "min": 23.04,
+   "n": 9,
+   "platform": "ios",
+   "q1": 23.94,
+   "q3": 27.81,
+   "store": "knowledgec_other"
+  },
+  {
+   "cell": "ios|knowledgec_other|device_class=phone",
+   "ci_cov": 0.961,
+   "ci_hi": 27.35,
+   "ci_lo": 23.51,
+   "ge1d": [
+    12,
+    12,
+    1.0,
+    0.757,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    12,
+    0.0,
+    0.0,
+    0.243
+   ],
+   "ge7d": [
+    12,
+    12,
+    1.0,
+    0.757,
+    1.0
+   ],
+   "max": 28.61,
+   "median_d": 26.06,
+   "min": 20.02,
+   "n": 12,
+   "platform": "ios",
+   "q1": 23.83,
+   "q3": 26.47,
+   "store": "knowledgec_other"
+  },
+  {
+   "cell": "ios|knowledgec_other|device_class=tablet",
+   "n": 2,
+   "platform": "ios",
+   "store": "knowledgec_other",
+   "suppressed": true
+  },
+  {
+   "cell": "ios|interactionc|os_major=17",
+   "ci_cov": 0.938,
+   "ci_hi": 168.0,
+   "ci_lo": 166.72,
+   "ge1d": [
+    5,
+    5,
+    1.0,
+    0.566,
+    1.0
+   ],
+   "ge30d": [
+    5,
+    5,
+    1.0,
+    0.566,
+    1.0
+   ],
+   "ge7d": [
+    5,
+    5,
+    1.0,
+    0.566,
+    1.0
+   ],
+   "max": 168.0,
+   "median_d": 167.25,
+   "min": 166.72,
+   "n": 5,
+   "platform": "ios",
+   "q1": 167.15,
+   "q3": 167.27,
+   "store": "interactionc"
+  },
+  {
+   "cell": "ios|interactionc|os_major=26",
+   "ci_cov": 0.961,
+   "ci_hi": 167.69,
+   "ci_lo": 167.0,
+   "ge1d": [
+    9,
+    9,
+    1.0,
+    0.701,
+    1.0
+   ],
+   "ge30d": [
+    9,
+    9,
+    1.0,
+    0.701,
+    1.0
+   ],
+   "ge7d": [
+    9,
+    9,
+    1.0,
+    0.701,
+    1.0
+   ],
+   "max": 167.79,
+   "median_d": 167.58,
+   "min": 166.82,
+   "n": 9,
+   "platform": "ios",
+   "q1": 167.22,
+   "q3": 167.65,
+   "store": "interactionc"
+  },
+  {
+   "cell": "ios|interactionc|device_class=phone",
+   "ci_cov": 0.961,
+   "ci_hi": 167.69,
+   "ci_lo": 167.0,
+   "ge1d": [
+    12,
+    12,
+    1.0,
+    0.757,
+    1.0
+   ],
+   "ge30d": [
+    12,
+    12,
+    1.0,
+    0.757,
+    1.0
+   ],
+   "ge7d": [
+    12,
+    12,
+    1.0,
+    0.757,
+    1.0
+   ],
+   "max": 168.0,
+   "median_d": 167.39,
+   "min": 166.72,
+   "n": 12,
+   "platform": "ios",
+   "q1": 167.11,
+   "q3": 167.66,
+   "store": "interactionc"
+  },
+  {
+   "cell": "ios|interactionc|device_class=tablet",
+   "n": 2,
+   "platform": "ios",
+   "store": "interactionc",
+   "suppressed": true
+  },
+  {
+   "cell": "android|usage_daily|os_major=13",
+   "n": 3,
+   "platform": "android",
+   "store": "usage_daily",
+   "suppressed": true
+  },
+  {
+   "cell": "android|usage_daily|os_major=16",
+   "ci_cov": 0.984,
+   "ci_hi": 10.15,
+   "ci_lo": 9.19,
+   "ge1d": [
+    7,
+    7,
+    1.0,
+    0.646,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    7,
+    0.0,
+    0.0,
+    0.354
+   ],
+   "ge7d": [
+    7,
+    7,
+    1.0,
+    0.646,
+    1.0
+   ],
+   "max": 10.15,
+   "median_d": 9.61,
+   "min": 9.19,
+   "n": 7,
+   "platform": "android",
+   "q1": 9.31,
+   "q3": 9.79,
+   "store": "usage_daily"
+  },
+  {
+   "cell": "android|usage_daily|vendor_group=group1",
+   "ci_cov": 0.992,
+   "ci_hi": 10.15,
+   "ci_lo": 1.86,
+   "ge1d": [
+    8,
+    8,
+    1.0,
+    0.676,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    8,
+    0.0,
+    0.0,
+    0.324
+   ],
+   "ge7d": [
+    7,
+    8,
+    0.875,
+    0.529,
+    0.978
+   ],
+   "max": 10.15,
+   "median_d": 9.51,
+   "min": 1.86,
+   "n": 8,
+   "platform": "android",
+   "q1": 9.2,
+   "q3": 9.74,
+   "store": "usage_daily"
+  },
+  {
+   "cell": "android|usage_daily|vendor_group=group2",
+   "n": 2,
+   "platform": "android",
+   "store": "usage_daily",
+   "suppressed": true
+  },
+  {
+   "cell": "android|usage_any|os_major=13",
+   "n": 3,
+   "platform": "android",
+   "store": "usage_any",
+   "suppressed": true
+  },
+  {
+   "cell": "android|usage_any|os_major=16",
+   "ci_cov": 0.984,
+   "ci_hi": 689.32,
+   "ci_lo": 244.94,
+   "ge1d": [
+    7,
+    7,
+    1.0,
+    0.646,
+    1.0
+   ],
+   "ge30d": [
+    7,
+    7,
+    1.0,
+    0.646,
+    1.0
+   ],
+   "ge7d": [
+    7,
+    7,
+    1.0,
+    0.646,
+    1.0
+   ],
+   "max": 689.32,
+   "median_d": 535.12,
+   "min": 244.94,
+   "n": 7,
+   "platform": "android",
+   "q1": 391.13,
+   "q3": 630.45,
+   "store": "usage_any"
+  },
+  {
+   "cell": "android|usage_any|vendor_group=group1",
+   "ci_cov": 0.992,
+   "ci_hi": 689.32,
+   "ci_lo": 244.94,
+   "ge1d": [
+    8,
+    8,
+    1.0,
+    0.676,
+    1.0
+   ],
+   "ge30d": [
+    8,
+    8,
+    1.0,
+    0.676,
+    1.0
+   ],
+   "ge7d": [
+    8,
+    8,
+    1.0,
+    0.676,
+    1.0
+   ],
+   "max": 689.32,
+   "median_d": 503.93,
+   "min": 244.94,
+   "n": 8,
+   "platform": "android",
+   "q1": 379.29,
+   "q3": 618.43,
+   "store": "usage_any"
+  },
+  {
+   "cell": "android|usage_any|vendor_group=group2",
+   "n": 2,
+   "platform": "android",
+   "store": "usage_any",
+   "suppressed": true
+  },
+  {
+   "cell": "android|notif_history|os_major=13",
+   "n": 3,
+   "platform": "android",
+   "store": "notif_history",
+   "suppressed": true
+  },
+  {
+   "cell": "android|notif_history|os_major=16",
+   "ci_cov": 0.984,
+   "ci_hi": 1.49,
+   "ci_lo": 0.9,
+   "ge1d": [
+    4,
+    7,
+    0.571,
+    0.25,
+    0.842
+   ],
+   "ge30d": [
+    0,
+    7,
+    0.0,
+    0.0,
+    0.354
+   ],
+   "ge7d": [
+    0,
+    7,
+    0.0,
+    0.0,
+    0.354
+   ],
+   "max": 1.49,
+   "median_d": 1.21,
+   "min": 0.9,
+   "n": 7,
+   "platform": "android",
+   "q1": 0.95,
+   "q3": 1.34,
+   "store": "notif_history"
+  },
+  {
+   "cell": "android|notif_history|vendor_group=group1",
+   "ci_cov": 0.992,
+   "ci_hi": 1.49,
+   "ci_lo": 0.9,
+   "ge1d": [
+    5,
+    8,
+    0.625,
+    0.306,
+    0.863
+   ],
+   "ge30d": [
+    0,
+    8,
+    0.0,
+    0.0,
+    0.324
+   ],
+   "ge7d": [
+    0,
+    8,
+    0.0,
+    0.0,
+    0.324
+   ],
+   "max": 1.49,
+   "median_d": 1.13,
+   "min": 0.9,
+   "n": 8,
+   "platform": "android",
+   "q1": 0.96,
+   "q3": 1.33,
+   "store": "notif_history"
+  },
+  {
+   "cell": "android|notif_history|vendor_group=group2",
+   "n": 2,
+   "platform": "android",
+   "store": "notif_history",
+   "suppressed": true
+  },
+  {
+   "cell": "android|dropbox|os_major=13",
+   "n": 3,
+   "platform": "android",
+   "store": "dropbox",
+   "suppressed": true
+  },
+  {
+   "cell": "android|dropbox|os_major=16",
+   "ci_cov": 0.984,
+   "ci_hi": 3.03,
+   "ci_lo": 1.29,
+   "ge1d": [
+    7,
+    7,
+    1.0,
+    0.646,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    7,
+    0.0,
+    0.0,
+    0.354
+   ],
+   "ge7d": [
+    0,
+    7,
+    0.0,
+    0.0,
+    0.354
+   ],
+   "max": 3.03,
+   "median_d": 2.49,
+   "min": 1.29,
+   "n": 7,
+   "platform": "android",
+   "q1": 1.44,
+   "q3": 2.88,
+   "store": "dropbox"
+  },
+  {
+   "cell": "android|dropbox|vendor_group=group1",
+   "ci_cov": 0.992,
+   "ci_hi": 3.03,
+   "ci_lo": 1.29,
+   "ge1d": [
+    8,
+    8,
+    1.0,
+    0.676,
+    1.0
+   ],
+   "ge30d": [
+    0,
+    8,
+    0.0,
+    0.0,
+    0.324
+   ],
+   "ge7d": [
+    0,
+    8,
+    0.0,
+    0.0,
+    0.324
+   ],
+   "max": 3.03,
+   "median_d": 2.4,
+   "min": 1.29,
+   "n": 8,
+   "platform": "android",
+   "q1": 1.47,
+   "q3": 2.84,
+   "store": "dropbox"
+  },
+  {
+   "cell": "android|dropbox|vendor_group=group2",
+   "n": 2,
+   "platform": "android",
+   "store": "dropbox",
+   "suppressed": true
+  },
+  {
+   "cell": "android|netstats|os_major=13",
+   "n": 3,
+   "platform": "android",
+   "store": "netstats",
+   "suppressed": true
+  },
+  {
+   "cell": "android|netstats|os_major=16",
+   "ci_cov": 0.984,
+   "ci_hi": 104.97,
+   "ci_lo": 86.64,
+   "ge1d": [
+    7,
+    7,
+    1.0,
+    0.646,
+    1.0
+   ],
+   "ge30d": [
+    7,
+    7,
+    1.0,
+    0.646,
+    1.0
+   ],
+   "ge7d": [
+    7,
+    7,
+    1.0,
+    0.646,
+    1.0
+   ],
+   "max": 104.97,
+   "median_d": 96.16,
+   "min": 86.64,
+   "n": 7,
+   "platform": "android",
+   "q1": 90.7,
+   "q3": 102.05,
+   "store": "netstats"
+  },
+  {
+   "cell": "android|netstats|vendor_group=group1",
+   "ci_cov": 0.992,
+   "ci_hi": 104.97,
+   "ci_lo": 86.64,
+   "ge1d": [
+    8,
+    8,
+    1.0,
+    0.676,
+    1.0
+   ],
+   "ge30d": [
+    8,
+    8,
+    1.0,
+    0.676,
+    1.0
+   ],
+   "ge7d": [
+    8,
+    8,
+    1.0,
+    0.676,
+    1.0
+   ],
+   "max": 104.97,
+   "median_d": 94.49,
+   "min": 86.64,
+   "n": 8,
+   "platform": "android",
+   "q1": 88.46,
+   "q3": 102.01,
+   "store": "netstats"
+  },
+  {
+   "cell": "android|netstats|vendor_group=group2",
+   "n": 2,
+   "platform": "android",
+   "store": "netstats",
+   "suppressed": true
+  },
+  {
+   "cell": "android|procstats|os_major=13",
+   "n": 3,
+   "platform": "android",
+   "store": "procstats",
+   "suppressed": true
+  },
+  {
+   "cell": "android|procstats|os_major=16",
+   "ci_cov": 0.984,
+   "ci_hi": 38.36,
+   "ci_lo": 4.23,
+   "ge1d": [
+    7,
+    7,
+    1.0,
+    0.646,
+    1.0
+   ],
+   "ge30d": [
+    2,
+    7,
+    0.286,
+    0.082,
+    0.641
+   ],
+   "ge7d": [
+    6,
+    7,
+    0.857,
+    0.487,
+    0.974
+   ],
+   "max": 38.36,
+   "median_d": 14.77,
+   "min": 4.23,
+   "n": 7,
+   "platform": "android",
+   "q1": 9.95,
+   "q3": 28.07,
+   "store": "procstats"
+  },
+  {
+   "cell": "android|procstats|vendor_group=group1",
+   "ci_cov": 0.992,
+   "ci_hi": 38.36,
+   "ci_lo": 4.23,
+   "ge1d": [
+    8,
+    8,
+    1.0,
+    0.676,
+    1.0
+   ],
+   "ge30d": [
+    3,
+    8,
+    0.375,
+    0.137,
+    0.694
+   ],
+   "ge7d": [
+    7,
+    8,
+    0.875,
+    0.529,
+    0.978
+   ],
+   "max": 38.36,
+   "median_d": 18.33,
+   "min": 4.23,
+   "n": 8,
+   "platform": "android",
+   "q1": 11.13,
+   "q3": 34.66,
+   "store": "procstats"
+  },
+  {
+   "cell": "android|procstats|vendor_group=group2",
+   "n": 2,
+   "platform": "android",
+   "store": "procstats",
+   "suppressed": true
+  },
+  {
+   "cell": "android|vendor_battery_hist|os_major=13",
+   "n": 3,
+   "platform": "android",
+   "store": "vendor_battery_hist",
+   "suppressed": true
+  },
+  {
+   "cell": "android|vendor_battery_hist|os_major=16",
+   "ci_cov": 0.984,
+   "ci_hi": 53.01,
+   "ci_lo": 8.27,
+   "ge1d": [
+    7,
+    7,
+    1.0,
+    0.646,
+    1.0
+   ],
+   "ge30d": [
+    2,
+    7,
+    0.286,
+    0.082,
+    0.641
+   ],
+   "ge7d": [
+    7,
+    7,
+    1.0,
+    0.646,
+    1.0
+   ],
+   "max": 53.01,
+   "median_d": 23.3,
+   "min": 8.27,
+   "n": 7,
+   "platform": "android",
+   "q1": 14.48,
+   "q3": 31.33,
+   "store": "vendor_battery_hist"
+  },
+  {
+   "cell": "android|vendor_battery_hist|vendor_group=group1",
+   "ci_cov": 0.992,
+   "ci_hi": 53.01,
+   "ci_lo": 8.27,
+   "ge1d": [
+    8,
+    8,
+    1.0,
+    0.676,
+    1.0
+   ],
+   "ge30d": [
+    3,
+    8,
+    0.375,
+    0.137,
+    0.694
+   ],
+   "ge7d": [
+    8,
+    8,
+    1.0,
+    0.676,
+    1.0
+   ],
+   "max": 53.01,
+   "median_d": 25.64,
+   "min": 8.27,
+   "n": 8,
+   "platform": "android",
+   "q1": 16.93,
+   "q3": 39.1,
+   "store": "vendor_battery_hist"
+  },
+  {
+   "cell": "android|vendor_battery_hist|vendor_group=group2",
+   "n": 2,
+   "platform": "android",
+   "store": "vendor_battery_hist",
+   "suppressed": true
+  },
+  {
+   "cell": "bugreport|logcat_system|os_major=14",
+   "n": 2,
+   "platform": "bugreport",
+   "store": "logcat_system",
+   "suppressed": true
+  },
+  {
+   "cell": "bugreport|logcat_system|os_major=16",
+   "n": 4,
+   "platform": "bugreport",
+   "store": "logcat_system",
+   "suppressed": true
+  },
+  {
+   "cell": "bugreport|logcat_events|os_major=14",
+   "n": 2,
+   "platform": "bugreport",
+   "store": "logcat_events",
+   "suppressed": true
+  },
+  {
+   "cell": "bugreport|logcat_events|os_major=16",
+   "n": 4,
+   "platform": "bugreport",
+   "store": "logcat_events",
+   "suppressed": true
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "devices_compared": {
+  "biome_appinfocus": 16,
+  "dropbox": 10,
+  "interactionc": 16,
+  "interactionc_nowal": 16,
+  "knowledgec": 16,
+  "knowledgec_other": 16,
+  "logcat_system": 6,
+  "logcat_system_oldest_line": 6,
+  "netstats": 10,
+  "notif_history": 10,
+  "powerlog_archives": 16,
+  "procstats": 10,
+  "ul_highvolume": 2,
+  "ul_persist": 16,
+  "ul_signpost": 10,
+  "ul_special": 16,
+  "usage_any": 10,
+  "usage_daily": 10,
+  "vendor_battery_hist": 10
+ },
+ "head_strays": {
+  "strays_exact": 6,
+  "strays_total": 6
+ },
+ "max_abs_error_days": {
+  "biome_appinfocus": 0.0,
+  "dropbox": 0.0,
+  "interactionc": 0.0,
+  "interactionc_nowal": 0.0,
+  "knowledgec": 0.0,
+  "knowledgec_other": 0.0048989,
+  "logcat_system": 0.0,
+  "logcat_system_oldest_line": 0.0,
+  "netstats": 0.0,
+  "notif_history": 0.0,
+  "powerlog_archives": 0.0,
+  "procstats": 0.0,
+  "ul_highvolume": 0.0,
+  "ul_persist": 0.0,
+  "ul_signpost": 0.0,
+  "ul_special": 0.0,
+  "usage_any": 0.0,
+  "usage_daily": 0.0,
+  "vendor_battery_hist": 0.0
+ },
+ "within_tolerance": true
+}

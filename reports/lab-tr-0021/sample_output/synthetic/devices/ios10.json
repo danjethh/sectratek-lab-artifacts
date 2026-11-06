@@ -1,0 +1,142 @@
+{
+ "anchor_lag_h": 20.3161639851994,
+ "checks": {
+  "biome_name_le_mtime": [
+   8,
+   8
+  ],
+  "ul_persist_hdr_le_mtime": [
+   5,
+   5
+  ],
+  "ul_signpost_hdr_le_mtime": [
+   3,
+   3
+  ],
+  "ul_special_hdr_le_mtime": [
+   4,
+   4
+  ]
+ },
+ "clock_check": "pass",
+ "deep_knowledgec": {
+  "horizon_excl_signals_sync_d": 21.02,
+  "median_stream_horizon_d": 21.0,
+  "oldest_stream_name": "/discoverability/signals",
+  "records": 96,
+  "share_older_than_30_days": 0.073,
+  "signals_horizon_d": 292.36,
+  "streams": 4
+ },
+ "device_class": "tablet",
+ "device_newest": 1773070861.8096533,
+ "id": "ios10",
+ "kind": "ios",
+ "os_major": 17,
+ "same_device_drop": false,
+ "same_device_group": null,
+ "status": "ok",
+ "stores": {
+  "biome_appinfocus": {
+   "files": 8,
+   "horizon_d": 31.730452755937975,
+   "kind": "biome-segment-name",
+   "n_clock_err_high": 0,
+   "n_clock_err_low": 0,
+   "n_records": 8,
+   "newest": 1772366400.0,
+   "newest_lag_d": 9.0,
+   "oldest": 1770402488.881887
+  },
+  "interactionc": {
+   "horizon_d": 167.25368632533207,
+   "horizon_first_pct_d": 162.65994713290422,
+   "kind": "sqlite",
+   "n_clock_err_high": 0,
+   "n_clock_err_low": 0,
+   "n_records": 120,
+   "newest": 1773070861.8096533,
+   "newest_lag_d": 0.8465068327166416,
+   "nowal_horizon_d": 170.87892122606988,
+   "nowal_min": 1758380061.2060676,
+   "nowal_n": 132,
+   "oldest": 1758693281.5014913,
+   "p01": 1759090180.567717
+  },
+  "knowledgec": {
+   "horizon_d": 292.35609838124776,
+   "horizon_first_pct_d": 292.35609838124776,
+   "infocus_horizon_d": 21.01650923990265,
+   "infocus_min": 1771328173.6016724,
+   "kind": "sqlite",
+   "n_clock_err_high": 0,
+   "n_clock_err_low": 0,
+   "n_records": 96,
+   "newest": 1773070861.8096533,
+   "newest_lag_d": 0.8465068327166416,
+   "nowal_horizon_d": 292.35609838124776,
+   "nowal_min": 1747884433.0998602,
+   "nowal_n": 96,
+   "oldest": 1747884433.0998602,
+   "p01": 1747884433.0998602
+  },
+  "knowledgec_other": {
+   "horizon_d": 21.02,
+   "kind": "derived",
+   "newest_lag_d": 0.8465068327166416
+  },
+  "powerlog_archives": {
+   "files": 6,
+   "horizon_d": 7.0,
+   "kind": "powerlog-archive-date",
+   "n_clock_err_high": 0,
+   "n_clock_err_low": 0,
+   "n_records": 6,
+   "newest": 1772971200.0,
+   "newest_lag_d": 2.0,
+   "oldest": 1772539200.0
+  },
+  "ul_persist": {
+   "bad_header": 0,
+   "bytes": 2757,
+   "files": 5,
+   "horizon_d": 9.25925925925926,
+   "kind": "header start time",
+   "n_clock_err_high": 0,
+   "n_clock_err_low": 0,
+   "n_records": 5,
+   "newest": 1773070861.0,
+   "newest_lag_d": 0.8465162037037037,
+   "oldest": 1772344000.0
+  },
+  "ul_signpost": {
+   "bad_header": 0,
+   "bytes": 2765,
+   "files": 3,
+   "horizon_d": 3.2127546296296297,
+   "kind": "header start time",
+   "n_clock_err_high": 0,
+   "n_clock_err_low": 0,
+   "n_records": 3,
+   "newest": 1773070861.0,
+   "newest_lag_d": 0.8465162037037037,
+   "oldest": 1772866418.0
+  },
+  "ul_special": {
+   "bad_header": 0,
+   "bytes": 3628,
+   "files": 4,
+   "horizon_d": 22.52289351851852,
+   "kind": "header start time",
+   "n_clock_err_high": 0,
+   "n_clock_err_low": 0,
+   "n_records": 4,
+   "newest": 1773070861.0,
+   "newest_lag_d": 0.8465162037037037,
+   "oldest": 1771198022.0
+  }
+ },
+ "tacq": 1773144000.0,
+ "tacq_src": "record",
+ "vendor_group": "group1"
+}

@@ -1,0 +1,52 @@
+{
+ "checks": {
+  "logcat_events_backward_steps_over_hour": 0,
+  "logcat_system_backward_steps_over_hour": 0
+ },
+ "clock_check": "pass-same-clock",
+ "device_class": "phone",
+ "device_newest": 1775908779.0,
+ "id": "br02",
+ "kind": "bugreport",
+ "os_major": 16,
+ "same_device_drop": false,
+ "same_device_group": null,
+ "status": "ok",
+ "stores": {
+  "logcat_events": {
+   "body_grid": null,
+   "body_start": 1775899291.0,
+   "head_strays": 0,
+   "horizon_d": 0.11005787037037038,
+   "kind": "logcat",
+   "n_clock_err_high": 0,
+   "n_clock_err_low": 0,
+   "n_records": 375,
+   "newest": 1775908776.0,
+   "newest_lag_d": 0.0002777777777777778,
+   "oldest": 1775899291.0,
+   "oldest_line_horizon_d": 0.11005787037037038
+  },
+  "logcat_system": {
+   "body_grid": {
+    "pairs": 20,
+    "same_as_default": 20,
+    "same_up_to_2pct": true
+   },
+   "body_start": 1775905201.0,
+   "head_strays": 1,
+   "horizon_d": 0.04165509259259259,
+   "kind": "logcat",
+   "n_clock_err_high": 0,
+   "n_clock_err_low": 0,
+   "n_records": 1501,
+   "newest": 1775908779.0,
+   "newest_lag_d": 0.00024305555555555555,
+   "oldest": 1774616161.0,
+   "oldest_line_horizon_d": 14.961099537037038
+  }
+ },
+ "tacq": 1775908800.0,
+ "tacq_src": "report header",
+ "vendor_group": "group1"
+}

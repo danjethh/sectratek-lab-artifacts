@@ -1,0 +1,120 @@
+{
+ "anchor_lag_h": 23.127222222222223,
+ "checks": {
+  "dropbox_name_le_mtime": [
+   4,
+   4
+  ],
+  "netstats_name_le_mtime": [
+   5,
+   5
+  ],
+  "notif_history_name_le_mtime": [
+   3,
+   3
+  ],
+  "procstats_name_le_mtime": [
+   8,
+   8
+  ],
+  "usage_name_le_mtime": [
+   12,
+   13
+  ],
+  "vendor_battery_hist_name_le_mtime": [
+   4,
+   4
+  ]
+ },
+ "clock_check": "pass",
+ "device_class": "phone",
+ "device_newest": 1774183942,
+ "id": "and03",
+ "kind": "android",
+ "os_major": 16,
+ "same_device_drop": false,
+ "same_device_group": null,
+ "status": "ok",
+ "stores": {
+  "dropbox": {
+   "files": 4,
+   "horizon_d": 2.97199892361131,
+   "kind": "file-name-time",
+   "n_clock_err_high": 0,
+   "n_clock_err_low": 0,
+   "n_records": 4,
+   "newest": 1774183942.208,
+   "newest_lag_d": 0.963631851852492,
+   "oldest": 1774010419.293
+  },
+  "netstats": {
+   "files": 5,
+   "horizon_d": 96.15687791666775,
+   "kind": "file-name-time",
+   "n_clock_err_high": 0,
+   "n_clock_err_low": 0,
+   "n_records": 5,
+   "newest": 1772887942.208,
+   "newest_lag_d": 15.963631851852492,
+   "oldest": 1765959245.748
+  },
+  "notif_history": {
+   "files": 3,
+   "horizon_d": 1.213631851852492,
+   "kind": "file-name-time",
+   "n_clock_err_high": 0,
+   "n_clock_err_low": 0,
+   "n_records": 3,
+   "newest": 1774183942.208,
+   "newest_lag_d": 0.963631851852492,
+   "oldest": 1774162342.208
+  },
+  "procstats": {
+   "files": 8,
+   "horizon_d": 34.24290509259259,
+   "kind": "file-name-time",
+   "n_clock_err_high": 0,
+   "n_clock_err_low": 0,
+   "n_records": 8,
+   "newest": 1774183942.0,
+   "newest_lag_d": 0.9636342592592593,
+   "oldest": 1771308613.0
+  },
+  "usage_any": {
+   "files": 13,
+   "horizon_d": 606.4115637037048,
+   "kind": "file-name-time",
+   "n_clock_err_high": 0,
+   "n_clock_err_low": 0,
+   "n_records": 13,
+   "newest": 1774231778.273,
+   "newest_lag_d": 0.40997369212960755,
+   "oldest": 1721873240.896
+  },
+  "usage_daily": {
+   "files": 10,
+   "horizon_d": 9.409973692129608,
+   "kind": "file-name-time",
+   "n_clock_err_high": 0,
+   "n_clock_err_low": 0,
+   "n_records": 10,
+   "newest": 1774231778.273,
+   "newest_lag_d": 0.40997369212960755,
+   "oldest": 1773454178.273
+  },
+  "vendor_battery_hist": {
+   "files": 4,
+   "horizon_d": 53.00706018518518,
+   "kind": "file-name-time",
+   "n_clock_err_high": 0,
+   "n_clock_err_low": 0,
+   "n_records": 4,
+   "newest": 1774183942.0,
+   "newest_lag_d": 0.9636342592592593,
+   "oldest": 1769687390.0
+  }
+ },
+ "tacq": 1774267200.0,
+ "tacq_src": "file",
+ "vendor_group": "group1"
+}

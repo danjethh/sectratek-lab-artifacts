@@ -1,0 +1,595 @@
+{
+ "note": "Invented devices; paths are relative to this file.",
+ "devices": [
+  {
+   "id": "ios01",
+   "kind": "ios_ffs",
+   "path": "archives/ios01.zip",
+   "os_major": 26,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "ul_persist": 7.052789351851852,
+    "ul_special": 16.977523148148148,
+    "knowledgec": 403.05049208200643,
+    "knowledgec_other": 28.078543019534813,
+    "interactionc": 167.64591545475577,
+    "interactionc_nowal": 172.17904274617632,
+    "biome_appinfocus": 53.77900074600622,
+    "powerlog_archives": 6.0
+   },
+   "acq_time": 1772366400.0,
+   "acq_source": "record"
+  },
+  {
+   "id": "ios02",
+   "kind": "ios_ffs",
+   "path": "archives/ios02.zip",
+   "os_major": 26,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "ul_persist": 4.9153472222222225,
+    "ul_special": 26.034791666666667,
+    "knowledgec": 632.9576386768923,
+    "knowledgec_other": 29.024676731170878,
+    "interactionc": 166.68542582139096,
+    "interactionc_nowal": 190.6549154608393,
+    "biome_appinfocus": 44.64987171995143,
+    "powerlog_archives": 8.0
+   },
+   "acq_time": 1772452800.0,
+   "acq_source": "record",
+   "same_device_group": "pair1"
+  },
+  {
+   "id": "ios03",
+   "kind": "ios_ffs",
+   "path": "archives/ios03.zip",
+   "os_major": 26,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "ul_persist": 1.6401273148148148,
+    "ul_special": 20.470717592592592,
+    "ul_signpost": 5.929155092592593,
+    "knowledgec": 26.172965580053905,
+    "knowledgec_other": 26.172965580053905,
+    "interactionc": 167.79259966532666,
+    "interactionc_nowal": 167.79259966532666,
+    "biome_appinfocus": 44.503885476420876,
+    "powerlog_archives": 8.0
+   },
+   "acq_time": 1772539200.0,
+   "acq_source": "record"
+  },
+  {
+   "id": "ios04",
+   "kind": "ios_ffs",
+   "path": "archives/ios04.zip",
+   "os_major": 26,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "ul_persist": 9.827233796296296,
+    "ul_special": 8.699606481481482,
+    "ul_signpost": 9.259756944444444,
+    "ul_highvolume": 1.0036342592592593,
+    "knowledgec": 121.48468112644774,
+    "knowledgec_other": 25.134350186451165,
+    "interactionc": 166.81835489579373,
+    "interactionc_nowal": 173.34187282399446,
+    "biome_appinfocus": 46.71797086695278,
+    "powerlog_archives": 6.0
+   }
+  },
+  {
+   "id": "ios05",
+   "kind": "ios_ffs",
+   "path": "archives/ios05.zip",
+   "os_major": 26,
+   "device_class": "tablet",
+   "vendor_group": "group1",
+   "truth": {
+    "ul_persist": 4.459317129629629,
+    "ul_special": 9.47482638888889,
+    "ul_signpost": 5.591030092592592,
+    "knowledgec": 161.0302754285435,
+    "knowledgec_other": 27.808919089842174,
+    "interactionc": 167.64721192163725,
+    "interactionc_nowal": 174.91758448842222,
+    "biome_appinfocus": 52.41468614765339,
+    "powerlog_archives": 7.0
+   },
+   "acq_time": 1772712000.0,
+   "acq_source": "record"
+  },
+  {
+   "id": "ios06",
+   "kind": "ios_ffs",
+   "path": "archives/ios06.zip",
+   "os_major": 26,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "ul_persist": 7.495902777777777,
+    "ul_special": 21.458449074074075,
+    "ul_signpost": 6.291643518518518,
+    "knowledgec": 227.8042023639381,
+    "knowledgec_other": 28.614898871539367,
+    "interactionc": 167.58342368710098,
+    "interactionc_nowal": 167.58342368710098,
+    "biome_appinfocus": 32.29887845584088,
+    "powerlog_archives": 7.0
+   },
+   "acq_time": 1772798400.0,
+   "acq_source": "record"
+  },
+  {
+   "id": "ios07",
+   "kind": "ios_ffs",
+   "path": "archives/ios07.zip",
+   "os_major": 26,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "ul_persist": 4.046006944444445,
+    "ul_special": 15.94763888888889,
+    "ul_signpost": 9.196886574074075,
+    "knowledgec": 132.85362917835513,
+    "knowledgec_other": 23.039350541824543,
+    "interactionc": 167.5116897584498,
+    "interactionc_nowal": 177.93984585226133,
+    "biome_appinfocus": 32.127140918503756,
+    "powerlog_archives": 6.0
+   },
+   "acq_time": 1772884800.0,
+   "acq_source": "record"
+  },
+  {
+   "id": "ios08",
+   "kind": "ios_ffs",
+   "path": "archives/ios08.zip",
+   "os_major": 26,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "ul_persist": 8.641284722222222,
+    "ul_special": 9.017222222222221,
+    "ul_signpost": 2.5541898148148148,
+    "knowledgec": 597.5974155756666,
+    "knowledgec_other": 26.06788637223067,
+    "interactionc": 167.21642764135368,
+    "interactionc_nowal": 167.21642764135368,
+    "biome_appinfocus": 32.47123203870875,
+    "powerlog_archives": 6.0
+   }
+  },
+  {
+   "id": "ios09",
+   "kind": "ios_ffs",
+   "path": "archives/ios09.zip",
+   "os_major": 26,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "ul_persist": 4.05912037037037,
+    "ul_special": 18.65310185185185,
+    "ul_highvolume": 1.9405902777777777,
+    "knowledgec": 654.7353676700565,
+    "knowledgec_other": 23.505383904659087,
+    "interactionc": 167.69272319543416,
+    "interactionc_nowal": 167.69272319543416,
+    "biome_appinfocus": 33.372311987026976,
+    "powerlog_archives": 6.0
+   },
+   "acq_time": 1773057600.0,
+   "acq_source": "record"
+  },
+  {
+   "id": "ios10",
+   "kind": "ios_ffs",
+   "path": "archives/ios10.zip",
+   "os_major": 17,
+   "device_class": "tablet",
+   "vendor_group": "group1",
+   "truth": {
+    "ul_persist": 9.25925925925926,
+    "ul_special": 22.52289351851852,
+    "ul_signpost": 3.2127546296296297,
+    "knowledgec": 292.35609838124776,
+    "knowledgec_other": 21.01650923990265,
+    "interactionc": 167.25368632533207,
+    "interactionc_nowal": 170.87892122606988,
+    "biome_appinfocus": 31.730452755937975,
+    "powerlog_archives": 7.0
+   },
+   "acq_time": 1773144000.0,
+   "acq_source": "record"
+  },
+  {
+   "id": "ios11",
+   "kind": "ios_ffs",
+   "path": "archives/ios11.zip",
+   "os_major": 17,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "ul_persist": 3.6083680555555557,
+    "ul_special": 9.591527777777777,
+    "knowledgec": 26.057807824597866,
+    "knowledgec_other": 26.057807824597866,
+    "interactionc": 166.71650045036995,
+    "interactionc_nowal": 180.8845858352521,
+    "biome_appinfocus": 31.69520437538072,
+    "powerlog_archives": 7.0
+   },
+   "acq_time": 1773230400.0,
+   "acq_source": "record"
+  },
+  {
+   "id": "ios12",
+   "kind": "ios_ffs",
+   "path": "archives/ios12.zip",
+   "os_major": 17,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "ul_persist": 3.624016203703704,
+    "ul_special": 16.186840277777776,
+    "ul_signpost": 3.7341550925925926,
+    "knowledgec": 616.2617404720877,
+    "knowledgec_other": 27.350444943463362,
+    "interactionc": 167.27410465227234,
+    "interactionc_nowal": 192.8797339929309,
+    "biome_appinfocus": 32.25064963191472,
+    "powerlog_archives": 7.0
+   }
+  },
+  {
+   "id": "ios13",
+   "kind": "ios_ffs",
+   "path": "archives/ios13.zip",
+   "os_major": 17,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "ul_persist": 20.5,
+    "ul_special": 28.22951388888889,
+    "knowledgec": 166.67082087358392,
+    "knowledgec_other": 26.84709768337508,
+    "interactionc": 167.9474148844486,
+    "interactionc_nowal": 167.9474148844486,
+    "biome_appinfocus": 41.089700382081446,
+    "powerlog_archives": 7.0
+   },
+   "acq_time": 1773403200.0,
+   "acq_source": "record"
+  },
+  {
+   "id": "ios14",
+   "kind": "ios_ffs",
+   "path": "archives/ios14.zip",
+   "os_major": 17,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "ul_persist": 1.3575231481481482,
+    "ul_special": 26.85332175925926,
+    "ul_signpost": 4.285613425925926,
+    "knowledgec": 477.62047310096244,
+    "knowledgec_other": 20.024697276030977,
+    "interactionc": 167.9955751548735,
+    "interactionc_nowal": 167.9955751548735,
+    "biome_appinfocus": 39.74393553652973,
+    "powerlog_archives": 7.0
+   },
+   "acq_time": 1773489600.0,
+   "acq_source": "record"
+  },
+  {
+   "id": "ios15",
+   "kind": "ios_ffs",
+   "path": "archives/ios15.zip",
+   "os_major": 17,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "ul_persist": 1.7686458333333333,
+    "ul_special": 22.67103009259259,
+    "ul_signpost": 7.551898148148148,
+    "knowledgec": 657.4746279973123,
+    "knowledgec_other": 26.184606676708768,
+    "interactionc": 167.14961031793996,
+    "interactionc_nowal": 182.61693631070355,
+    "biome_appinfocus": 43.0009601767306,
+    "powerlog_archives": 6.0
+   },
+   "acq_time": 1773576000.0,
+   "acq_source": "record"
+  },
+  {
+   "id": "ios02b",
+   "kind": "ios_ffs",
+   "path": "archives/ios02b.zip",
+   "os_major": 26,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "acq_time": 1772474400.0,
+   "acq_source": "record",
+   "same_device_group": "pair1",
+   "truth": {
+    "ul_persist": 4.4227083333333335,
+    "ul_special": 7.236944444444444,
+    "knowledgec": 426.3971189331788,
+    "knowledgec_other": 23.941971622092858,
+    "interactionc": 167.00154698555943,
+    "interactionc_nowal": 188.43481291573082,
+    "biome_appinfocus": 39.63730909385063,
+    "powerlog_archives": 6.25
+   }
+  },
+  {
+   "id": "and01",
+   "kind": "android_ffs",
+   "path": "archives/and01.zip",
+   "os_major": 16,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "usage_daily": 9.186135607875055,
+    "usage_any": 535.1209481413828,
+    "notif_history": 1.3545140883298936,
+    "dropbox": 2.4850761820403515,
+    "netstats": 104.96614578258108,
+    "procstats": 38.359398148148145,
+    "vendor_battery_hist": 34.658171296296295
+   },
+   "acq_time": 1774094400.0,
+   "acq_source": "record"
+  },
+  {
+   "id": "and02",
+   "kind": "android_ffs",
+   "path": "archives/and02.zip",
+   "os_major": 16,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "usage_daily": 9.608400436924011,
+    "usage_any": 689.3233250548084,
+    "notif_history": 0.8976549767895982,
+    "dropbox": 1.2885086928225227,
+    "netstats": 92.8172434367819,
+    "procstats": 21.89090277777778,
+    "vendor_battery_hist": 8.270347222222222
+   },
+   "acq_time": 1774180800.0,
+   "acq_source": "record"
+  },
+  {
+   "id": "and03",
+   "kind": "android_ffs",
+   "path": "archives/and03.zip",
+   "os_major": 16,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "usage_daily": 9.409973690313873,
+    "usage_any": 606.4115636930201,
+    "notif_history": 1.213631846441163,
+    "dropbox": 2.971998915553645,
+    "netstats": 96.15687791395243,
+    "procstats": 34.24290509259259,
+    "vendor_battery_hist": 53.00706018518518
+   }
+  },
+  {
+   "id": "and04",
+   "kind": "android_ffs",
+   "path": "archives/and04.zip",
+   "os_major": 16,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "usage_daily": 9.207077214008681,
+    "usage_any": 244.93636473910675,
+    "notif_history": 0.9734590756368858,
+    "dropbox": 2.790952710420997,
+    "netstats": 86.64199617666227,
+    "procstats": 14.765717592592592,
+    "vendor_battery_hist": 19.373981481481483
+   },
+   "acq_time": 1774353600.0,
+   "acq_source": "record"
+  },
+  {
+   "id": "and05",
+   "kind": "android_ffs",
+   "path": "archives/and05.zip",
+   "os_major": 16,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "usage_daily": 9.880263263420375,
+    "usage_any": 654.4877922784841,
+    "notif_history": 0.932906643671018,
+    "dropbox": 3.0273134089233698,
+    "netstats": 102.13541363995384,
+    "procstats": 7.571979166666667,
+    "vendor_battery_hist": 23.29571759259259
+   },
+   "acq_time": 1774440000.0,
+   "acq_source": "record"
+  },
+  {
+   "id": "and06",
+   "kind": "android_ffs",
+   "path": "archives/and06.zip",
+   "os_major": 16,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "usage_daily": 9.698230809823231,
+    "usage_any": 472.7414938716894,
+    "notif_history": 1.3281009417220397,
+    "dropbox": 1.3895297904864505,
+    "netstats": 88.57719321445182,
+    "procstats": 12.320405092592592,
+    "vendor_battery_hist": 9.590648148148148
+   }
+  },
+  {
+   "id": "and07",
+   "kind": "android_ffs",
+   "path": "archives/and07.zip",
+   "os_major": 16,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "usage_daily": 10.149097424820065,
+    "usage_any": 309.51419392927374,
+    "notif_history": 1.4903273870547613,
+    "dropbox": 1.4903273870547613,
+    "netstats": 101.97419680208243,
+    "procstats": 4.2343518518518515,
+    "vendor_battery_hist": 27.992337962962964
+   },
+   "acq_time": 1774612800.0,
+   "acq_source": "record"
+  },
+  {
+   "id": "and08",
+   "kind": "android_ffs",
+   "path": "archives/and08.zip",
+   "os_major": 13,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "usage_daily": 1.863663944557861,
+    "usage_any": 402.55348448712516,
+    "notif_history": 1.0390572351769165,
+    "dropbox": 2.3103579349125978,
+    "netstats": 88.10875732057349,
+    "procstats": 35.897962962962964,
+    "vendor_battery_hist": 52.44488425925926
+   },
+   "acq_time": 1774699200.0,
+   "acq_source": "record"
+  },
+  {
+   "id": "and09",
+   "kind": "android_ffs",
+   "path": "archives/and09.zip",
+   "os_major": 13,
+   "device_class": "phone",
+   "vendor_group": "group2",
+   "truth": {
+    "usage_daily": 10.062808963962727,
+    "usage_any": 644.3244114550065,
+    "notif_history": 1.4141151309068556,
+    "dropbox": 2.3555193700558608,
+    "netstats": 99.4803680201068,
+    "procstats": 37.04216435185185,
+    "vendor_battery_hist": 39.64252314814815
+   }
+  },
+  {
+   "id": "and10",
+   "kind": "android_ffs",
+   "path": "archives/and10.zip",
+   "os_major": 13,
+   "device_class": "phone",
+   "vendor_group": "group2",
+   "truth": {
+    "usage_daily": 9.15687781062391,
+    "usage_any": 261.2990286849053,
+    "notif_history": 0.942486109416242,
+    "dropbox": 2.7616242378287845,
+    "netstats": 81.28174156144537,
+    "procstats": 14.740185185185185,
+    "vendor_battery_hist": 19.2459375
+   },
+   "acq_time": 1774872000.0,
+   "acq_source": "record"
+  },
+  {
+   "id": "br01",
+   "kind": "bugreport",
+   "path": "archives/br01.zip",
+   "os_major": 16,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "logcat_system": 0.020833333333333332,
+    "head_strays": 0,
+    "logcat_system_oldest_line": 0.020833333333333332
+   }
+  },
+  {
+   "id": "br02",
+   "kind": "bugreport",
+   "path": "archives/br02.zip",
+   "os_major": 16,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "logcat_system": 0.04165509259259259,
+    "head_strays": 1,
+    "logcat_system_oldest_line": 14.961099537037038
+   }
+  },
+  {
+   "id": "br03",
+   "kind": "bugreport",
+   "path": "archives/br03.zip",
+   "os_major": 16,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "logcat_system": 0.12491898148148148,
+    "head_strays": 3,
+    "logcat_system_oldest_line": 13.055914351851852
+   }
+  },
+  {
+   "id": "br04",
+   "kind": "bugreport",
+   "path": "archives/br04.zip",
+   "os_major": 16,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "logcat_system": 0.08332175925925926,
+    "head_strays": 0,
+    "logcat_system_oldest_line": 0.08332175925925926
+   }
+  },
+  {
+   "id": "br05",
+   "kind": "bugreport",
+   "path": "archives/br05.zip",
+   "os_major": 14,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "logcat_system": 0.03333333333333333,
+    "head_strays": 4,
+    "logcat_system_oldest_line": 11.047488425925925
+   }
+  },
+  {
+   "id": "br06",
+   "kind": "bugreport",
+   "path": "archives/br06.zip",
+   "os_major": 14,
+   "device_class": "phone",
+   "vendor_group": "group1",
+   "truth": {
+    "logcat_system": 0.0625,
+    "head_strays": 2,
+    "logcat_system_oldest_line": 11.493391203703704
+   }
+  }
+ ]
+}
